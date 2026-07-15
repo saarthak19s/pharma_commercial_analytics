@@ -1,4 +1,4 @@
-# Pharma Commercial Analytics Engine
+![Dashboard Preview](dashboard/1.png.png)# Pharma Commercial Analytics Engine
 
 An end-to-end commercial analytics system for pharmaceutical sales operations — built with **Python, SQL, Pandas, and Streamlit**. Simulates and analyzes HCP (doctor) engagement, sales rep performance, and product/marketing trends to support data-driven commercial decisions in the healthcare/pharma sector.
 
