@@ -1,0 +1,801 @@
+hcp_id,territory,segment,recommended_annual_calls,actual_calls,call_gap,call_plan_action
+HCP0678,Northwest,Tier 1 - High Value,12,1,-11,UNDER-CALLED - Increase Visits
+HCP0399,West,Tier 1 - High Value,12,1,-11,UNDER-CALLED - Increase Visits
+HCP0763,Southeast,Tier 1 - High Value,12,1,-11,UNDER-CALLED - Increase Visits
+HCP0759,Midwest,Tier 1 - High Value,12,1,-11,UNDER-CALLED - Increase Visits
+HCP0620,Midwest,Tier 1 - High Value,12,2,-10,UNDER-CALLED - Increase Visits
+HCP0466,Northeast,Tier 1 - High Value,12,2,-10,UNDER-CALLED - Increase Visits
+HCP0768,Southwest,Tier 1 - High Value,12,2,-10,UNDER-CALLED - Increase Visits
+HCP0548,Midwest,Tier 1 - High Value,12,2,-10,UNDER-CALLED - Increase Visits
+HCP0621,Northeast,Tier 1 - High Value,12,2,-10,UNDER-CALLED - Increase Visits
+HCP0776,Southwest,Tier 1 - High Value,12,2,-10,UNDER-CALLED - Increase Visits
+HCP0077,Midwest,Tier 1 - High Value,12,2,-10,UNDER-CALLED - Increase Visits
+HCP0188,Midwest,Tier 1 - High Value,12,2,-10,UNDER-CALLED - Increase Visits
+HCP0779,West,Tier 1 - High Value,12,2,-10,UNDER-CALLED - Increase Visits
+HCP0217,Northeast,Tier 1 - High Value,12,2,-10,UNDER-CALLED - Increase Visits
+HCP0229,Southwest,Tier 1 - High Value,12,2,-10,UNDER-CALLED - Increase Visits
+HCP0109,Northeast,Tier 1 - High Value,12,2,-10,UNDER-CALLED - Increase Visits
+HCP0696,Northwest,Tier 1 - High Value,12,2,-10,UNDER-CALLED - Increase Visits
+HCP0526,Northeast,Tier 1 - High Value,12,2,-10,UNDER-CALLED - Increase Visits
+HCP0191,West,Tier 1 - High Value,12,2,-10,UNDER-CALLED - Increase Visits
+HCP0581,Southeast,Tier 1 - High Value,12,2,-10,UNDER-CALLED - Increase Visits
+HCP0506,Midwest,Tier 1 - High Value,12,2,-10,UNDER-CALLED - Increase Visits
+HCP0255,Midwest,Tier 1 - High Value,12,2,-10,UNDER-CALLED - Increase Visits
+HCP0597,Northwest,Tier 1 - High Value,12,2,-10,UNDER-CALLED - Increase Visits
+HCP0761,West,Tier 1 - High Value,12,2,-10,UNDER-CALLED - Increase Visits
+HCP0601,Southeast,Tier 1 - High Value,12,2,-10,UNDER-CALLED - Increase Visits
+HCP0099,Southwest,Tier 1 - High Value,12,2,-10,UNDER-CALLED - Increase Visits
+HCP0364,Southeast,Tier 1 - High Value,12,2,-10,UNDER-CALLED - Increase Visits
+HCP0692,Southwest,Tier 1 - High Value,12,2,-10,UNDER-CALLED - Increase Visits
+HCP0258,Northeast,Tier 1 - High Value,12,3,-9,UNDER-CALLED - Increase Visits
+HCP0398,Southeast,Tier 1 - High Value,12,3,-9,UNDER-CALLED - Increase Visits
+HCP0671,Northwest,Tier 1 - High Value,12,3,-9,UNDER-CALLED - Increase Visits
+HCP0658,Midwest,Tier 1 - High Value,12,3,-9,UNDER-CALLED - Increase Visits
+HCP0319,Midwest,Tier 1 - High Value,12,3,-9,UNDER-CALLED - Increase Visits
+HCP0794,Southwest,Tier 1 - High Value,12,3,-9,UNDER-CALLED - Increase Visits
+HCP0774,Northwest,Tier 1 - High Value,12,3,-9,UNDER-CALLED - Increase Visits
+HCP0035,West,Tier 1 - High Value,12,3,-9,UNDER-CALLED - Increase Visits
+HCP0614,Northeast,Tier 1 - High Value,12,3,-9,UNDER-CALLED - Increase Visits
+HCP0748,Midwest,Tier 1 - High Value,12,3,-9,UNDER-CALLED - Increase Visits
+HCP0496,Northwest,Tier 1 - High Value,12,3,-9,UNDER-CALLED - Increase Visits
+HCP0738,West,Tier 1 - High Value,12,3,-9,UNDER-CALLED - Increase Visits
+HCP0682,West,Tier 1 - High Value,12,3,-9,UNDER-CALLED - Increase Visits
+HCP0322,Southwest,Tier 1 - High Value,12,3,-9,UNDER-CALLED - Increase Visits
+HCP0704,Northwest,Tier 1 - High Value,12,3,-9,UNDER-CALLED - Increase Visits
+HCP0038,Southwest,Tier 1 - High Value,12,3,-9,UNDER-CALLED - Increase Visits
+HCP0534,Northwest,Tier 1 - High Value,12,3,-9,UNDER-CALLED - Increase Visits
+HCP0423,Southwest,Tier 1 - High Value,12,3,-9,UNDER-CALLED - Increase Visits
+HCP0098,Southeast,Tier 1 - High Value,12,3,-9,UNDER-CALLED - Increase Visits
+HCP0278,Southeast,Tier 1 - High Value,12,3,-9,UNDER-CALLED - Increase Visits
+HCP0535,Midwest,Tier 1 - High Value,12,3,-9,UNDER-CALLED - Increase Visits
+HCP0094,Southeast,Tier 1 - High Value,12,3,-9,UNDER-CALLED - Increase Visits
+HCP0093,West,Tier 1 - High Value,12,3,-9,UNDER-CALLED - Increase Visits
+HCP0430,Midwest,Tier 1 - High Value,12,3,-9,UNDER-CALLED - Increase Visits
+HCP0133,West,Tier 1 - High Value,12,3,-9,UNDER-CALLED - Increase Visits
+HCP0541,West,Tier 1 - High Value,12,3,-9,UNDER-CALLED - Increase Visits
+HCP0105,West,Tier 1 - High Value,12,3,-9,UNDER-CALLED - Increase Visits
+HCP0568,Northeast,Tier 1 - High Value,12,3,-9,UNDER-CALLED - Increase Visits
+HCP0532,Northwest,Tier 1 - High Value,12,3,-9,UNDER-CALLED - Increase Visits
+HCP0563,Southeast,Tier 1 - High Value,12,3,-9,UNDER-CALLED - Increase Visits
+HCP0665,Southeast,Tier 1 - High Value,12,3,-9,UNDER-CALLED - Increase Visits
+HCP0598,Northwest,Tier 1 - High Value,12,3,-9,UNDER-CALLED - Increase Visits
+HCP0198,Midwest,Tier 1 - High Value,12,3,-9,UNDER-CALLED - Increase Visits
+HCP0637,Northeast,Tier 1 - High Value,12,4,-8,UNDER-CALLED - Increase Visits
+HCP0095,Southeast,Tier 1 - High Value,12,4,-8,UNDER-CALLED - Increase Visits
+HCP0100,Midwest,Tier 1 - High Value,12,4,-8,UNDER-CALLED - Increase Visits
+HCP0055,Midwest,Tier 1 - High Value,12,4,-8,UNDER-CALLED - Increase Visits
+HCP0204,Southwest,Tier 1 - High Value,12,4,-8,UNDER-CALLED - Increase Visits
+HCP0448,Southeast,Tier 1 - High Value,12,4,-8,UNDER-CALLED - Increase Visits
+HCP0361,Northeast,Tier 1 - High Value,12,4,-8,UNDER-CALLED - Increase Visits
+HCP0537,Midwest,Tier 1 - High Value,12,4,-8,UNDER-CALLED - Increase Visits
+HCP0635,Southeast,Tier 1 - High Value,12,4,-8,UNDER-CALLED - Increase Visits
+HCP0468,West,Tier 1 - High Value,12,4,-8,UNDER-CALLED - Increase Visits
+HCP0108,Southeast,Tier 1 - High Value,12,4,-8,UNDER-CALLED - Increase Visits
+HCP0488,Midwest,Tier 1 - High Value,12,4,-8,UNDER-CALLED - Increase Visits
+HCP0656,Midwest,Tier 1 - High Value,12,4,-8,UNDER-CALLED - Increase Visits
+HCP0335,Midwest,Tier 1 - High Value,12,4,-8,UNDER-CALLED - Increase Visits
+HCP0139,Northwest,Tier 1 - High Value,12,4,-8,UNDER-CALLED - Increase Visits
+HCP0662,Northwest,Tier 1 - High Value,12,4,-8,UNDER-CALLED - Increase Visits
+HCP0553,Northeast,Tier 1 - High Value,12,4,-8,UNDER-CALLED - Increase Visits
+HCP0664,Northeast,Tier 1 - High Value,12,4,-8,UNDER-CALLED - Increase Visits
+HCP0461,Southwest,Tier 1 - High Value,12,4,-8,UNDER-CALLED - Increase Visits
+HCP0646,Southeast,Tier 1 - High Value,12,4,-8,UNDER-CALLED - Increase Visits
+HCP0106,Northeast,Tier 1 - High Value,12,4,-8,UNDER-CALLED - Increase Visits
+HCP0272,Southeast,Tier 1 - High Value,12,4,-8,UNDER-CALLED - Increase Visits
+HCP0289,West,Tier 1 - High Value,12,4,-8,UNDER-CALLED - Increase Visits
+HCP0711,Midwest,Tier 1 - High Value,12,4,-8,UNDER-CALLED - Increase Visits
+HCP0337,Southwest,Tier 1 - High Value,12,4,-8,UNDER-CALLED - Increase Visits
+HCP0403,Southeast,Tier 1 - High Value,12,4,-8,UNDER-CALLED - Increase Visits
+HCP0030,Midwest,Tier 1 - High Value,12,4,-8,UNDER-CALLED - Increase Visits
+HCP0765,Northwest,Tier 1 - High Value,12,4,-8,UNDER-CALLED - Increase Visits
+HCP0643,West,Tier 1 - High Value,12,4,-8,UNDER-CALLED - Increase Visits
+HCP0260,Southwest,Tier 1 - High Value,12,4,-8,UNDER-CALLED - Increase Visits
+HCP0442,Southwest,Tier 1 - High Value,12,4,-8,UNDER-CALLED - Increase Visits
+HCP0431,Northeast,Tier 1 - High Value,12,4,-8,UNDER-CALLED - Increase Visits
+HCP0254,Southwest,Tier 1 - High Value,12,4,-8,UNDER-CALLED - Increase Visits
+HCP0592,West,Tier 1 - High Value,12,4,-8,UNDER-CALLED - Increase Visits
+HCP0178,Northeast,Tier 1 - High Value,12,4,-8,UNDER-CALLED - Increase Visits
+HCP0707,Northwest,Tier 1 - High Value,12,4,-8,UNDER-CALLED - Increase Visits
+HCP0124,West,Tier 1 - High Value,12,4,-8,UNDER-CALLED - Increase Visits
+HCP0655,Northeast,Tier 1 - High Value,12,4,-8,UNDER-CALLED - Increase Visits
+HCP0369,Northeast,Tier 1 - High Value,12,4,-8,UNDER-CALLED - Increase Visits
+HCP0273,Southeast,Tier 1 - High Value,12,4,-8,UNDER-CALLED - Increase Visits
+HCP0501,Northwest,Tier 1 - High Value,12,4,-8,UNDER-CALLED - Increase Visits
+HCP0462,Northwest,Tier 1 - High Value,12,4,-8,UNDER-CALLED - Increase Visits
+HCP0338,Northwest,Tier 1 - High Value,12,4,-8,UNDER-CALLED - Increase Visits
+HCP0444,Southwest,Tier 1 - High Value,12,4,-8,UNDER-CALLED - Increase Visits
+HCP0570,Southwest,Tier 1 - High Value,12,4,-8,UNDER-CALLED - Increase Visits
+HCP0366,Southeast,Tier 1 - High Value,12,4,-8,UNDER-CALLED - Increase Visits
+HCP0740,Southwest,Tier 1 - High Value,12,4,-8,UNDER-CALLED - Increase Visits
+HCP0433,Midwest,Tier 1 - High Value,12,4,-8,UNDER-CALLED - Increase Visits
+HCP0316,Northeast,Tier 1 - High Value,12,4,-8,UNDER-CALLED - Increase Visits
+HCP0144,West,Tier 1 - High Value,12,4,-8,UNDER-CALLED - Increase Visits
+HCP0752,Southwest,Tier 1 - High Value,12,4,-8,UNDER-CALLED - Increase Visits
+HCP0584,Northwest,Tier 1 - High Value,12,4,-8,UNDER-CALLED - Increase Visits
+HCP0084,Northeast,Tier 1 - High Value,12,4,-8,UNDER-CALLED - Increase Visits
+HCP0603,Southwest,Tier 1 - High Value,12,5,-7,UNDER-CALLED - Increase Visits
+HCP0329,Northwest,Tier 1 - High Value,12,5,-7,UNDER-CALLED - Increase Visits
+HCP0720,West,Tier 1 - High Value,12,5,-7,UNDER-CALLED - Increase Visits
+HCP0685,Midwest,Tier 1 - High Value,12,5,-7,UNDER-CALLED - Increase Visits
+HCP0775,West,Tier 1 - High Value,12,5,-7,UNDER-CALLED - Increase Visits
+HCP0173,Southeast,Tier 1 - High Value,12,5,-7,UNDER-CALLED - Increase Visits
+HCP0699,Southwest,Tier 1 - High Value,12,5,-7,UNDER-CALLED - Increase Visits
+HCP0394,Northeast,Tier 1 - High Value,12,5,-7,UNDER-CALLED - Increase Visits
+HCP0549,Northeast,Tier 1 - High Value,12,5,-7,UNDER-CALLED - Increase Visits
+HCP0405,Northwest,Tier 1 - High Value,12,5,-7,UNDER-CALLED - Increase Visits
+HCP0754,Midwest,Tier 1 - High Value,12,5,-7,UNDER-CALLED - Increase Visits
+HCP0417,Midwest,Tier 1 - High Value,12,5,-7,UNDER-CALLED - Increase Visits
+HCP0540,West,Tier 1 - High Value,12,5,-7,UNDER-CALLED - Increase Visits
+HCP0121,Northwest,Tier 1 - High Value,12,5,-7,UNDER-CALLED - Increase Visits
+HCP0445,Southeast,Tier 1 - High Value,12,5,-7,UNDER-CALLED - Increase Visits
+HCP0134,Northwest,Tier 1 - High Value,12,5,-7,UNDER-CALLED - Increase Visits
+HCP0758,Northeast,Tier 1 - High Value,12,5,-7,UNDER-CALLED - Increase Visits
+HCP0789,Southwest,Tier 1 - High Value,12,5,-7,UNDER-CALLED - Increase Visits
+HCP0604,Northeast,Tier 1 - High Value,12,5,-7,UNDER-CALLED - Increase Visits
+HCP0777,Northwest,Tier 1 - High Value,12,5,-7,UNDER-CALLED - Increase Visits
+HCP0135,Southeast,Tier 1 - High Value,12,5,-7,UNDER-CALLED - Increase Visits
+HCP0256,Southeast,Tier 1 - High Value,12,5,-7,UNDER-CALLED - Increase Visits
+HCP0064,Northwest,Tier 1 - High Value,12,5,-7,UNDER-CALLED - Increase Visits
+HCP0050,Southeast,Tier 1 - High Value,12,5,-7,UNDER-CALLED - Increase Visits
+HCP0684,Northwest,Tier 1 - High Value,12,5,-7,UNDER-CALLED - Increase Visits
+HCP0218,Southeast,Tier 1 - High Value,12,5,-7,UNDER-CALLED - Increase Visits
+HCP0507,West,Tier 1 - High Value,12,5,-7,UNDER-CALLED - Increase Visits
+HCP0001,Northwest,Tier 1 - High Value,12,5,-7,UNDER-CALLED - Increase Visits
+HCP0313,Northwest,Tier 1 - High Value,12,5,-7,UNDER-CALLED - Increase Visits
+HCP0351,Midwest,Tier 1 - High Value,12,5,-7,UNDER-CALLED - Increase Visits
+HCP0290,Northeast,Tier 1 - High Value,12,5,-7,UNDER-CALLED - Increase Visits
+HCP0415,Northwest,Tier 1 - High Value,12,5,-7,UNDER-CALLED - Increase Visits
+HCP0705,Southeast,Tier 1 - High Value,12,5,-7,UNDER-CALLED - Increase Visits
+HCP0634,Northeast,Tier 1 - High Value,12,5,-7,UNDER-CALLED - Increase Visits
+HCP0498,Midwest,Tier 1 - High Value,12,5,-7,UNDER-CALLED - Increase Visits
+HCP0751,Northwest,Tier 1 - High Value,12,5,-7,UNDER-CALLED - Increase Visits
+HCP0623,West,Tier 1 - High Value,12,5,-7,UNDER-CALLED - Increase Visits
+HCP0484,West,Tier 1 - High Value,12,5,-7,UNDER-CALLED - Increase Visits
+HCP0559,Midwest,Tier 1 - High Value,12,5,-7,UNDER-CALLED - Increase Visits
+HCP0542,Southwest,Tier 1 - High Value,12,6,-6,UNDER-CALLED - Increase Visits
+HCP0760,Southeast,Tier 1 - High Value,12,6,-6,UNDER-CALLED - Increase Visits
+HCP0543,Southwest,Tier 1 - High Value,12,6,-6,UNDER-CALLED - Increase Visits
+HCP0723,Southwest,Tier 1 - High Value,12,6,-6,UNDER-CALLED - Increase Visits
+HCP0284,Northwest,Tier 1 - High Value,12,6,-6,UNDER-CALLED - Increase Visits
+HCP0128,Southeast,Tier 1 - High Value,12,6,-6,UNDER-CALLED - Increase Visits
+HCP0558,Southwest,Tier 1 - High Value,12,6,-6,UNDER-CALLED - Increase Visits
+HCP0016,Southwest,Tier 1 - High Value,12,6,-6,UNDER-CALLED - Increase Visits
+HCP0590,West,Tier 1 - High Value,12,6,-6,UNDER-CALLED - Increase Visits
+HCP0608,Southeast,Tier 1 - High Value,12,6,-6,UNDER-CALLED - Increase Visits
+HCP0192,West,Tier 1 - High Value,12,6,-6,UNDER-CALLED - Increase Visits
+HCP0263,Southwest,Tier 1 - High Value,12,6,-6,UNDER-CALLED - Increase Visits
+HCP0078,Northwest,Tier 1 - High Value,12,6,-6,UNDER-CALLED - Increase Visits
+HCP0057,Southeast,Tier 1 - High Value,12,6,-6,UNDER-CALLED - Increase Visits
+HCP0141,Northeast,Tier 1 - High Value,12,6,-6,UNDER-CALLED - Increase Visits
+HCP0454,West,Tier 1 - High Value,12,6,-6,UNDER-CALLED - Increase Visits
+HCP0739,Southeast,Tier 1 - High Value,12,6,-6,UNDER-CALLED - Increase Visits
+HCP0012,West,Tier 1 - High Value,12,6,-6,UNDER-CALLED - Increase Visits
+HCP0127,Southwest,Tier 1 - High Value,12,6,-6,UNDER-CALLED - Increase Visits
+HCP0285,Northeast,Tier 1 - High Value,12,6,-6,UNDER-CALLED - Increase Visits
+HCP0482,Northwest,Tier 1 - High Value,12,6,-6,UNDER-CALLED - Increase Visits
+HCP0392,Southeast,Tier 1 - High Value,12,6,-6,UNDER-CALLED - Increase Visits
+HCP0742,West,Tier 1 - High Value,12,6,-6,UNDER-CALLED - Increase Visits
+HCP0511,Midwest,Tier 1 - High Value,12,6,-6,UNDER-CALLED - Increase Visits
+HCP0547,Northwest,Tier 1 - High Value,12,6,-6,UNDER-CALLED - Increase Visits
+HCP0353,Southwest,Tier 1 - High Value,12,6,-6,UNDER-CALLED - Increase Visits
+HCP0533,West,Tier 1 - High Value,12,6,-6,UNDER-CALLED - Increase Visits
+HCP0408,Southwest,Tier 1 - High Value,12,6,-6,UNDER-CALLED - Increase Visits
+HCP0477,West,Tier 1 - High Value,12,6,-6,UNDER-CALLED - Increase Visits
+HCP0631,Southeast,Tier 1 - High Value,12,6,-6,UNDER-CALLED - Increase Visits
+HCP0227,Northeast,Tier 1 - High Value,12,6,-6,UNDER-CALLED - Increase Visits
+HCP0594,Northwest,Tier 1 - High Value,12,6,-6,UNDER-CALLED - Increase Visits
+HCP0677,Southeast,Tier 1 - High Value,12,6,-6,UNDER-CALLED - Increase Visits
+HCP0240,Northwest,Tier 1 - High Value,12,6,-6,UNDER-CALLED - Increase Visits
+HCP0017,Northeast,Tier 1 - High Value,12,6,-6,UNDER-CALLED - Increase Visits
+HCP0697,West,Tier 1 - High Value,12,6,-6,UNDER-CALLED - Increase Visits
+HCP0069,Midwest,Tier 1 - High Value,12,6,-6,UNDER-CALLED - Increase Visits
+HCP0515,Midwest,Tier 1 - High Value,12,6,-6,UNDER-CALLED - Increase Visits
+HCP0633,West,Tier 1 - High Value,12,6,-6,UNDER-CALLED - Increase Visits
+HCP0090,Northwest,Tier 1 - High Value,12,6,-6,UNDER-CALLED - Increase Visits
+HCP0579,Southwest,Tier 1 - High Value,12,6,-6,UNDER-CALLED - Increase Visits
+HCP0582,Midwest,Tier 1 - High Value,12,6,-6,UNDER-CALLED - Increase Visits
+HCP0503,West,Tier 1 - High Value,12,7,-5,UNDER-CALLED - Increase Visits
+HCP0216,Northwest,Tier 1 - High Value,12,7,-5,UNDER-CALLED - Increase Visits
+HCP0367,Southeast,Tier 1 - High Value,12,7,-5,UNDER-CALLED - Increase Visits
+HCP0209,West,Tier 1 - High Value,12,7,-5,UNDER-CALLED - Increase Visits
+HCP0571,Southwest,Tier 1 - High Value,12,7,-5,UNDER-CALLED - Increase Visits
+HCP0750,Southeast,Tier 1 - High Value,12,7,-5,UNDER-CALLED - Increase Visits
+HCP0565,Midwest,Tier 1 - High Value,12,7,-5,UNDER-CALLED - Increase Visits
+HCP0197,West,Tier 1 - High Value,12,7,-5,UNDER-CALLED - Increase Visits
+HCP0447,Midwest,Tier 1 - High Value,12,7,-5,UNDER-CALLED - Increase Visits
+HCP0321,Southwest,Tier 1 - High Value,12,7,-5,UNDER-CALLED - Increase Visits
+HCP0286,Southwest,Tier 1 - High Value,12,7,-5,UNDER-CALLED - Increase Visits
+HCP0545,Midwest,Tier 1 - High Value,12,7,-5,UNDER-CALLED - Increase Visits
+HCP0190,Southwest,Tier 1 - High Value,12,7,-5,UNDER-CALLED - Increase Visits
+HCP0165,Midwest,Tier 1 - High Value,12,7,-5,UNDER-CALLED - Increase Visits
+HCP0307,Southeast,Tier 1 - High Value,12,7,-5,UNDER-CALLED - Increase Visits
+HCP0354,Southwest,Tier 1 - High Value,12,7,-5,UNDER-CALLED - Increase Visits
+HCP0096,Southwest,Tier 1 - High Value,12,7,-5,UNDER-CALLED - Increase Visits
+HCP0674,West,Tier 1 - High Value,12,7,-5,UNDER-CALLED - Increase Visits
+HCP0472,Midwest,Tier 1 - High Value,12,7,-5,UNDER-CALLED - Increase Visits
+HCP0071,Southeast,Tier 1 - High Value,12,7,-5,UNDER-CALLED - Increase Visits
+HCP0283,Southwest,Tier 1 - High Value,12,7,-5,UNDER-CALLED - Increase Visits
+HCP0639,Southwest,Tier 1 - High Value,12,7,-5,UNDER-CALLED - Increase Visits
+HCP0440,Northwest,Tier 1 - High Value,12,7,-5,UNDER-CALLED - Increase Visits
+HCP0527,Southwest,Tier 1 - High Value,12,7,-5,UNDER-CALLED - Increase Visits
+HCP0383,Midwest,Tier 1 - High Value,12,7,-5,UNDER-CALLED - Increase Visits
+HCP0271,Midwest,Tier 1 - High Value,12,7,-5,UNDER-CALLED - Increase Visits
+HCP0140,Midwest,Tier 1 - High Value,12,7,-5,UNDER-CALLED - Increase Visits
+HCP0453,Southeast,Tier 1 - High Value,12,7,-5,UNDER-CALLED - Increase Visits
+HCP0063,Northwest,Tier 1 - High Value,12,7,-5,UNDER-CALLED - Increase Visits
+HCP0464,Northeast,Tier 1 - High Value,12,7,-5,UNDER-CALLED - Increase Visits
+HCP0469,Southwest,Tier 1 - High Value,12,7,-5,UNDER-CALLED - Increase Visits
+HCP0539,Northwest,Tier 1 - High Value,12,7,-5,UNDER-CALLED - Increase Visits
+HCP0025,Midwest,Tier 1 - High Value,12,7,-5,UNDER-CALLED - Increase Visits
+HCP0003,West,Tier 1 - High Value,12,8,-4,UNDER-CALLED - Increase Visits
+HCP0702,West,Tier 1 - High Value,12,8,-4,UNDER-CALLED - Increase Visits
+HCP0567,Northwest,Tier 1 - High Value,12,8,-4,UNDER-CALLED - Increase Visits
+HCP0722,Northwest,Tier 1 - High Value,12,8,-4,UNDER-CALLED - Increase Visits
+HCP0033,Midwest,Tier 1 - High Value,12,8,-4,UNDER-CALLED - Increase Visits
+HCP0492,Northeast,Tier 1 - High Value,12,8,-4,UNDER-CALLED - Increase Visits
+HCP0791,Northeast,Tier 1 - High Value,12,8,-4,UNDER-CALLED - Increase Visits
+HCP0622,Northeast,Tier 1 - High Value,12,8,-4,UNDER-CALLED - Increase Visits
+HCP0375,Northeast,Tier 1 - High Value,12,8,-4,UNDER-CALLED - Increase Visits
+HCP0085,Southeast,Tier 1 - High Value,12,8,-4,UNDER-CALLED - Increase Visits
+HCP0449,Southeast,Tier 1 - High Value,12,8,-4,UNDER-CALLED - Increase Visits
+HCP0143,Southwest,Tier 1 - High Value,12,8,-4,UNDER-CALLED - Increase Visits
+HCP0182,Northeast,Tier 1 - High Value,12,8,-4,UNDER-CALLED - Increase Visits
+HCP0261,Northwest,Tier 1 - High Value,12,8,-4,UNDER-CALLED - Increase Visits
+HCP0654,West,Tier 1 - High Value,12,8,-4,UNDER-CALLED - Increase Visits
+HCP0067,Southwest,Tier 1 - High Value,12,9,-3,UNDER-CALLED - Increase Visits
+HCP0675,West,Tier 1 - High Value,12,9,-3,UNDER-CALLED - Increase Visits
+HCP0032,Northwest,Tier 1 - High Value,12,9,-3,UNDER-CALLED - Increase Visits
+HCP0225,Southeast,Tier 1 - High Value,12,9,-3,UNDER-CALLED - Increase Visits
+HCP0649,Northwest,Tier 1 - High Value,12,9,-3,UNDER-CALLED - Increase Visits
+HCP0345,Southeast,Tier 1 - High Value,12,9,-3,UNDER-CALLED - Increase Visits
+HCP0203,Northeast,Tier 1 - High Value,12,9,-3,UNDER-CALLED - Increase Visits
+HCP0344,Midwest,Tier 1 - High Value,12,10,-2,UNDER-CALLED - Increase Visits
+HCP0239,Southeast,Tier 1 - High Value,12,10,-2,UNDER-CALLED - Increase Visits
+HCP0340,Midwest,Tier 1 - High Value,12,10,-2,UNDER-CALLED - Increase Visits
+HCP0215,Northwest,Tier 1 - High Value,12,10,-2,UNDER-CALLED - Increase Visits
+HCP0429,Midwest,Tier 1 - High Value,12,10,-2,UNDER-CALLED - Increase Visits
+HCP0641,Northeast,Tier 1 - High Value,12,10,-2,UNDER-CALLED - Increase Visits
+HCP0660,Northwest,Tier 1 - High Value,12,10,-2,UNDER-CALLED - Increase Visits
+HCP0708,Southwest,Tier 1 - High Value,12,10,-2,UNDER-CALLED - Increase Visits
+HCP0709,Northeast,Tier 1 - High Value,12,10,-2,UNDER-CALLED - Increase Visits
+HCP0004,Northeast,Tier 1 - High Value,12,10,-2,UNDER-CALLED - Increase Visits
+HCP0514,Midwest,Tier 1 - High Value,12,11,-1,UNDER-CALLED - Increase Visits
+HCP0339,Southwest,Tier 1 - High Value,12,11,-1,UNDER-CALLED - Increase Visits
+HCP0583,West,Tier 1 - High Value,12,11,-1,UNDER-CALLED - Increase Visits
+HCP0486,Southeast,Tier 1 - High Value,12,11,-1,UNDER-CALLED - Increase Visits
+HCP0467,Southeast,Tier 1 - High Value,12,11,-1,UNDER-CALLED - Increase Visits
+HCP0396,Midwest,Tier 1 - High Value,12,12,0,ON TARGET
+HCP0782,Northeast,Tier 1 - High Value,12,13,1,ON TARGET
+HCP0207,Northeast,Tier 2 - Medium Value,6,0,-6,UNDER-CALLED - Increase Visits
+HCP0250,West,Tier 2 - Medium Value,6,0,-6,UNDER-CALLED - Increase Visits
+HCP0627,Northwest,Tier 2 - Medium Value,6,0,-6,UNDER-CALLED - Increase Visits
+HCP0058,Midwest,Tier 2 - Medium Value,6,1,-5,UNDER-CALLED - Increase Visits
+HCP0343,Southeast,Tier 2 - Medium Value,6,1,-5,UNDER-CALLED - Increase Visits
+HCP0296,West,Tier 2 - Medium Value,6,1,-5,UNDER-CALLED - Increase Visits
+HCP0411,Southwest,Tier 2 - Medium Value,6,1,-5,UNDER-CALLED - Increase Visits
+HCP0785,Northeast,Tier 2 - Medium Value,6,1,-5,UNDER-CALLED - Increase Visits
+HCP0040,Southeast,Tier 2 - Medium Value,6,1,-5,UNDER-CALLED - Increase Visits
+HCP0054,West,Tier 2 - Medium Value,6,1,-5,UNDER-CALLED - Increase Visits
+HCP0237,Midwest,Tier 2 - Medium Value,6,1,-5,UNDER-CALLED - Increase Visits
+HCP0156,Southeast,Tier 2 - Medium Value,6,1,-5,UNDER-CALLED - Increase Visits
+HCP0574,Southeast,Tier 2 - Medium Value,6,1,-5,UNDER-CALLED - Increase Visits
+HCP0402,Southwest,Tier 2 - Medium Value,6,1,-5,UNDER-CALLED - Increase Visits
+HCP0020,Midwest,Tier 2 - Medium Value,6,2,-4,UNDER-CALLED - Increase Visits
+HCP0572,Midwest,Tier 2 - Medium Value,6,2,-4,UNDER-CALLED - Increase Visits
+HCP0006,Midwest,Tier 2 - Medium Value,6,2,-4,UNDER-CALLED - Increase Visits
+HCP0404,Southeast,Tier 2 - Medium Value,6,2,-4,UNDER-CALLED - Increase Visits
+HCP0632,Southeast,Tier 2 - Medium Value,6,2,-4,UNDER-CALLED - Increase Visits
+HCP0798,Northwest,Tier 2 - Medium Value,6,2,-4,UNDER-CALLED - Increase Visits
+HCP0743,Southeast,Tier 2 - Medium Value,6,2,-4,UNDER-CALLED - Increase Visits
+HCP0036,Southwest,Tier 2 - Medium Value,6,2,-4,UNDER-CALLED - Increase Visits
+HCP0630,Northeast,Tier 2 - Medium Value,6,2,-4,UNDER-CALLED - Increase Visits
+HCP0626,Northwest,Tier 2 - Medium Value,6,2,-4,UNDER-CALLED - Increase Visits
+HCP0378,Northwest,Tier 2 - Medium Value,6,2,-4,UNDER-CALLED - Increase Visits
+HCP0312,Southwest,Tier 2 - Medium Value,6,2,-4,UNDER-CALLED - Increase Visits
+HCP0274,Northwest,Tier 2 - Medium Value,6,2,-4,UNDER-CALLED - Increase Visits
+HCP0222,Southeast,Tier 2 - Medium Value,6,2,-4,UNDER-CALLED - Increase Visits
+HCP0037,Northwest,Tier 2 - Medium Value,6,2,-4,UNDER-CALLED - Increase Visits
+HCP0489,Northeast,Tier 2 - Medium Value,6,2,-4,UNDER-CALLED - Increase Visits
+HCP0679,Southeast,Tier 2 - Medium Value,6,2,-4,UNDER-CALLED - Increase Visits
+HCP0101,Northwest,Tier 2 - Medium Value,6,2,-4,UNDER-CALLED - Increase Visits
+HCP0281,Northwest,Tier 2 - Medium Value,6,2,-4,UNDER-CALLED - Increase Visits
+HCP0659,Midwest,Tier 2 - Medium Value,6,2,-4,UNDER-CALLED - Increase Visits
+HCP0154,Midwest,Tier 2 - Medium Value,6,2,-4,UNDER-CALLED - Increase Visits
+HCP0420,Southeast,Tier 2 - Medium Value,6,2,-4,UNDER-CALLED - Increase Visits
+HCP0311,Northeast,Tier 2 - Medium Value,6,2,-4,UNDER-CALLED - Increase Visits
+HCP0619,Northwest,Tier 2 - Medium Value,6,2,-4,UNDER-CALLED - Increase Visits
+HCP0308,Northwest,Tier 2 - Medium Value,6,2,-4,UNDER-CALLED - Increase Visits
+HCP0238,Southwest,Tier 2 - Medium Value,6,2,-4,UNDER-CALLED - Increase Visits
+HCP0326,Northwest,Tier 2 - Medium Value,6,2,-4,UNDER-CALLED - Increase Visits
+HCP0680,Midwest,Tier 2 - Medium Value,6,2,-4,UNDER-CALLED - Increase Visits
+HCP0349,Northeast,Tier 2 - Medium Value,6,2,-4,UNDER-CALLED - Increase Visits
+HCP0644,Southeast,Tier 2 - Medium Value,6,2,-4,UNDER-CALLED - Increase Visits
+HCP0136,Northwest,Tier 2 - Medium Value,6,2,-4,UNDER-CALLED - Increase Visits
+HCP0452,Northwest,Tier 2 - Medium Value,6,2,-4,UNDER-CALLED - Increase Visits
+HCP0556,Northwest,Tier 2 - Medium Value,6,2,-4,UNDER-CALLED - Increase Visits
+HCP0268,West,Tier 2 - Medium Value,6,2,-4,UNDER-CALLED - Increase Visits
+HCP0008,Southeast,Tier 2 - Medium Value,6,3,-3,UNDER-CALLED - Increase Visits
+HCP0119,Midwest,Tier 2 - Medium Value,6,3,-3,UNDER-CALLED - Increase Visits
+HCP0232,Northwest,Tier 2 - Medium Value,6,3,-3,UNDER-CALLED - Increase Visits
+HCP0051,Southeast,Tier 2 - Medium Value,6,3,-3,UNDER-CALLED - Increase Visits
+HCP0116,Southeast,Tier 2 - Medium Value,6,3,-3,UNDER-CALLED - Increase Visits
+HCP0166,West,Tier 2 - Medium Value,6,3,-3,UNDER-CALLED - Increase Visits
+HCP0393,Northeast,Tier 2 - Medium Value,6,3,-3,UNDER-CALLED - Increase Visits
+HCP0341,Southwest,Tier 2 - Medium Value,6,3,-3,UNDER-CALLED - Increase Visits
+HCP0205,Northeast,Tier 2 - Medium Value,6,3,-3,UNDER-CALLED - Increase Visits
+HCP0719,Northeast,Tier 2 - Medium Value,6,3,-3,UNDER-CALLED - Increase Visits
+HCP0412,Northeast,Tier 2 - Medium Value,6,3,-3,UNDER-CALLED - Increase Visits
+HCP0610,Northwest,Tier 2 - Medium Value,6,3,-3,UNDER-CALLED - Increase Visits
+HCP0435,Northeast,Tier 2 - Medium Value,6,3,-3,UNDER-CALLED - Increase Visits
+HCP0295,Northeast,Tier 2 - Medium Value,6,3,-3,UNDER-CALLED - Increase Visits
+HCP0386,Southwest,Tier 2 - Medium Value,6,3,-3,UNDER-CALLED - Increase Visits
+HCP0104,Southeast,Tier 2 - Medium Value,6,3,-3,UNDER-CALLED - Increase Visits
+HCP0282,West,Tier 2 - Medium Value,6,3,-3,UNDER-CALLED - Increase Visits
+HCP0589,Northwest,Tier 2 - Medium Value,6,3,-3,UNDER-CALLED - Increase Visits
+HCP0370,Midwest,Tier 2 - Medium Value,6,3,-3,UNDER-CALLED - Increase Visits
+HCP0372,Northwest,Tier 2 - Medium Value,6,3,-3,UNDER-CALLED - Increase Visits
+HCP0111,Northeast,Tier 2 - Medium Value,6,3,-3,UNDER-CALLED - Increase Visits
+HCP0528,Southwest,Tier 2 - Medium Value,6,3,-3,UNDER-CALLED - Increase Visits
+HCP0327,Northwest,Tier 2 - Medium Value,6,3,-3,UNDER-CALLED - Increase Visits
+HCP0186,Northeast,Tier 2 - Medium Value,6,3,-3,UNDER-CALLED - Increase Visits
+HCP0732,West,Tier 2 - Medium Value,6,3,-3,UNDER-CALLED - Increase Visits
+HCP0024,Southwest,Tier 2 - Medium Value,6,3,-3,UNDER-CALLED - Increase Visits
+HCP0002,Midwest,Tier 2 - Medium Value,6,3,-3,UNDER-CALLED - Increase Visits
+HCP0015,Southeast,Tier 2 - Medium Value,6,3,-3,UNDER-CALLED - Increase Visits
+HCP0170,Midwest,Tier 2 - Medium Value,6,3,-3,UNDER-CALLED - Increase Visits
+HCP0734,Southeast,Tier 2 - Medium Value,6,3,-3,UNDER-CALLED - Increase Visits
+HCP0625,Northwest,Tier 2 - Medium Value,6,3,-3,UNDER-CALLED - Increase Visits
+HCP0330,Southwest,Tier 2 - Medium Value,6,3,-3,UNDER-CALLED - Increase Visits
+HCP0267,Southeast,Tier 2 - Medium Value,6,3,-3,UNDER-CALLED - Increase Visits
+HCP0389,Northeast,Tier 2 - Medium Value,6,3,-3,UNDER-CALLED - Increase Visits
+HCP0653,Southeast,Tier 2 - Medium Value,6,3,-3,UNDER-CALLED - Increase Visits
+HCP0152,Northeast,Tier 2 - Medium Value,6,3,-3,UNDER-CALLED - Increase Visits
+HCP0007,Southeast,Tier 2 - Medium Value,6,3,-3,UNDER-CALLED - Increase Visits
+HCP0065,Northeast,Tier 2 - Medium Value,6,3,-3,UNDER-CALLED - Increase Visits
+HCP0706,Midwest,Tier 2 - Medium Value,6,3,-3,UNDER-CALLED - Increase Visits
+HCP0324,Midwest,Tier 2 - Medium Value,6,3,-3,UNDER-CALLED - Increase Visits
+HCP0091,Midwest,Tier 2 - Medium Value,6,3,-3,UNDER-CALLED - Increase Visits
+HCP0297,Southwest,Tier 2 - Medium Value,6,3,-3,UNDER-CALLED - Increase Visits
+HCP0756,Southeast,Tier 2 - Medium Value,6,3,-3,UNDER-CALLED - Increase Visits
+HCP0270,Southeast,Tier 2 - Medium Value,6,3,-3,UNDER-CALLED - Increase Visits
+HCP0047,West,Tier 2 - Medium Value,6,3,-3,UNDER-CALLED - Increase Visits
+HCP0617,Northeast,Tier 2 - Medium Value,6,3,-3,UNDER-CALLED - Increase Visits
+HCP0310,Northeast,Tier 2 - Medium Value,6,3,-3,UNDER-CALLED - Increase Visits
+HCP0125,Southwest,Tier 2 - Medium Value,6,3,-3,UNDER-CALLED - Increase Visits
+HCP0184,Midwest,Tier 2 - Medium Value,6,3,-3,UNDER-CALLED - Increase Visits
+HCP0555,West,Tier 2 - Medium Value,6,3,-3,UNDER-CALLED - Increase Visits
+HCP0042,Northeast,Tier 2 - Medium Value,6,3,-3,UNDER-CALLED - Increase Visits
+HCP0019,Midwest,Tier 2 - Medium Value,6,3,-3,UNDER-CALLED - Increase Visits
+HCP0053,Southwest,Tier 2 - Medium Value,6,4,-2,UNDER-CALLED - Increase Visits
+HCP0151,West,Tier 2 - Medium Value,6,4,-2,UNDER-CALLED - Increase Visits
+HCP0323,Southwest,Tier 2 - Medium Value,6,4,-2,UNDER-CALLED - Increase Visits
+HCP0048,Southwest,Tier 2 - Medium Value,6,4,-2,UNDER-CALLED - Increase Visits
+HCP0092,Northwest,Tier 2 - Medium Value,6,4,-2,UNDER-CALLED - Increase Visits
+HCP0287,Northwest,Tier 2 - Medium Value,6,4,-2,UNDER-CALLED - Increase Visits
+HCP0725,Southwest,Tier 2 - Medium Value,6,4,-2,UNDER-CALLED - Increase Visits
+HCP0478,West,Tier 2 - Medium Value,6,4,-2,UNDER-CALLED - Increase Visits
+HCP0463,Midwest,Tier 2 - Medium Value,6,4,-2,UNDER-CALLED - Increase Visits
+HCP0666,West,Tier 2 - Medium Value,6,4,-2,UNDER-CALLED - Increase Visits
+HCP0421,Midwest,Tier 2 - Medium Value,6,4,-2,UNDER-CALLED - Increase Visits
+HCP0395,Southwest,Tier 2 - Medium Value,6,4,-2,UNDER-CALLED - Increase Visits
+HCP0624,Northeast,Tier 2 - Medium Value,6,4,-2,UNDER-CALLED - Increase Visits
+HCP0615,West,Tier 2 - Medium Value,6,4,-2,UNDER-CALLED - Increase Visits
+HCP0303,Northwest,Tier 2 - Medium Value,6,4,-2,UNDER-CALLED - Increase Visits
+HCP0097,Southwest,Tier 2 - Medium Value,6,4,-2,UNDER-CALLED - Increase Visits
+HCP0772,Northeast,Tier 2 - Medium Value,6,4,-2,UNDER-CALLED - Increase Visits
+HCP0721,Northeast,Tier 2 - Medium Value,6,4,-2,UNDER-CALLED - Increase Visits
+HCP0233,Southwest,Tier 2 - Medium Value,6,4,-2,UNDER-CALLED - Increase Visits
+HCP0163,West,Tier 2 - Medium Value,6,4,-2,UNDER-CALLED - Increase Visits
+HCP0606,Southeast,Tier 2 - Medium Value,6,4,-2,UNDER-CALLED - Increase Visits
+HCP0648,Southeast,Tier 2 - Medium Value,6,4,-2,UNDER-CALLED - Increase Visits
+HCP0103,Southwest,Tier 2 - Medium Value,6,4,-2,UNDER-CALLED - Increase Visits
+HCP0246,Northeast,Tier 2 - Medium Value,6,4,-2,UNDER-CALLED - Increase Visits
+HCP0044,Midwest,Tier 2 - Medium Value,6,4,-2,UNDER-CALLED - Increase Visits
+HCP0450,Midwest,Tier 2 - Medium Value,6,4,-2,UNDER-CALLED - Increase Visits
+HCP0683,Southeast,Tier 2 - Medium Value,6,4,-2,UNDER-CALLED - Increase Visits
+HCP0530,West,Tier 2 - Medium Value,6,4,-2,UNDER-CALLED - Increase Visits
+HCP0474,Southeast,Tier 2 - Medium Value,6,4,-2,UNDER-CALLED - Increase Visits
+HCP0147,Southwest,Tier 2 - Medium Value,6,4,-2,UNDER-CALLED - Increase Visits
+HCP0384,Midwest,Tier 2 - Medium Value,6,4,-2,UNDER-CALLED - Increase Visits
+HCP0520,Southeast,Tier 2 - Medium Value,6,4,-2,UNDER-CALLED - Increase Visits
+HCP0499,Southeast,Tier 2 - Medium Value,6,4,-2,UNDER-CALLED - Increase Visits
+HCP0741,Southeast,Tier 2 - Medium Value,6,4,-2,UNDER-CALLED - Increase Visits
+HCP0248,Midwest,Tier 2 - Medium Value,6,4,-2,UNDER-CALLED - Increase Visits
+HCP0130,Northeast,Tier 2 - Medium Value,6,4,-2,UNDER-CALLED - Increase Visits
+HCP0388,Midwest,Tier 2 - Medium Value,6,4,-2,UNDER-CALLED - Increase Visits
+HCP0508,Southwest,Tier 2 - Medium Value,6,4,-2,UNDER-CALLED - Increase Visits
+HCP0780,Southeast,Tier 2 - Medium Value,6,4,-2,UNDER-CALLED - Increase Visits
+HCP0189,Southeast,Tier 2 - Medium Value,6,4,-2,UNDER-CALLED - Increase Visits
+HCP0521,Southwest,Tier 2 - Medium Value,6,4,-2,UNDER-CALLED - Increase Visits
+HCP0566,West,Tier 2 - Medium Value,6,4,-2,UNDER-CALLED - Increase Visits
+HCP0638,Northeast,Tier 2 - Medium Value,6,4,-2,UNDER-CALLED - Increase Visits
+HCP0052,Northeast,Tier 2 - Medium Value,6,4,-2,UNDER-CALLED - Increase Visits
+HCP0618,Midwest,Tier 2 - Medium Value,6,4,-2,UNDER-CALLED - Increase Visits
+HCP0265,Northeast,Tier 2 - Medium Value,6,4,-2,UNDER-CALLED - Increase Visits
+HCP0657,Southwest,Tier 2 - Medium Value,6,4,-2,UNDER-CALLED - Increase Visits
+HCP0350,Southeast,Tier 2 - Medium Value,6,4,-2,UNDER-CALLED - Increase Visits
+HCP0509,West,Tier 2 - Medium Value,6,4,-2,UNDER-CALLED - Increase Visits
+HCP0512,Northeast,Tier 2 - Medium Value,6,4,-2,UNDER-CALLED - Increase Visits
+HCP0390,Southeast,Tier 2 - Medium Value,6,4,-2,UNDER-CALLED - Increase Visits
+HCP0277,Southwest,Tier 2 - Medium Value,6,5,-1,UNDER-CALLED - Increase Visits
+HCP0193,Midwest,Tier 2 - Medium Value,6,5,-1,UNDER-CALLED - Increase Visits
+HCP0235,Midwest,Tier 2 - Medium Value,6,5,-1,UNDER-CALLED - Increase Visits
+HCP0280,Midwest,Tier 2 - Medium Value,6,5,-1,UNDER-CALLED - Increase Visits
+HCP0158,Northwest,Tier 2 - Medium Value,6,5,-1,UNDER-CALLED - Increase Visits
+HCP0014,West,Tier 2 - Medium Value,6,5,-1,UNDER-CALLED - Increase Visits
+HCP0114,West,Tier 2 - Medium Value,6,5,-1,UNDER-CALLED - Increase Visits
+HCP0131,Southeast,Tier 2 - Medium Value,6,5,-1,UNDER-CALLED - Increase Visits
+HCP0089,Northwest,Tier 2 - Medium Value,6,5,-1,UNDER-CALLED - Increase Visits
+HCP0087,Northeast,Tier 2 - Medium Value,6,5,-1,UNDER-CALLED - Increase Visits
+HCP0118,Southwest,Tier 2 - Medium Value,6,5,-1,UNDER-CALLED - Increase Visits
+HCP0356,Northeast,Tier 2 - Medium Value,6,5,-1,UNDER-CALLED - Increase Visits
+HCP0021,Southwest,Tier 2 - Medium Value,6,5,-1,UNDER-CALLED - Increase Visits
+HCP0562,West,Tier 2 - Medium Value,6,5,-1,UNDER-CALLED - Increase Visits
+HCP0199,Southwest,Tier 2 - Medium Value,6,5,-1,UNDER-CALLED - Increase Visits
+HCP0072,Northwest,Tier 2 - Medium Value,6,5,-1,UNDER-CALLED - Increase Visits
+HCP0373,Southwest,Tier 2 - Medium Value,6,5,-1,UNDER-CALLED - Increase Visits
+HCP0013,Northeast,Tier 2 - Medium Value,6,5,-1,UNDER-CALLED - Increase Visits
+HCP0436,Southwest,Tier 2 - Medium Value,6,5,-1,UNDER-CALLED - Increase Visits
+HCP0360,Southeast,Tier 2 - Medium Value,6,5,-1,UNDER-CALLED - Increase Visits
+HCP0387,Northeast,Tier 2 - Medium Value,6,5,-1,UNDER-CALLED - Increase Visits
+HCP0342,Northwest,Tier 2 - Medium Value,6,5,-1,UNDER-CALLED - Increase Visits
+HCP0201,Midwest,Tier 2 - Medium Value,6,5,-1,UNDER-CALLED - Increase Visits
+HCP0613,Northeast,Tier 2 - Medium Value,6,5,-1,UNDER-CALLED - Increase Visits
+HCP0400,Northwest,Tier 2 - Medium Value,6,5,-1,UNDER-CALLED - Increase Visits
+HCP0502,Southwest,Tier 2 - Medium Value,6,5,-1,UNDER-CALLED - Increase Visits
+HCP0577,Southwest,Tier 2 - Medium Value,6,5,-1,UNDER-CALLED - Increase Visits
+HCP0159,Southwest,Tier 2 - Medium Value,6,5,-1,UNDER-CALLED - Increase Visits
+HCP0253,Midwest,Tier 2 - Medium Value,6,5,-1,UNDER-CALLED - Increase Visits
+HCP0180,Northeast,Tier 2 - Medium Value,6,5,-1,UNDER-CALLED - Increase Visits
+HCP0749,Midwest,Tier 2 - Medium Value,6,5,-1,UNDER-CALLED - Increase Visits
+HCP0348,Northeast,Tier 2 - Medium Value,6,5,-1,UNDER-CALLED - Increase Visits
+HCP0409,West,Tier 2 - Medium Value,6,5,-1,UNDER-CALLED - Increase Visits
+HCP0385,West,Tier 2 - Medium Value,6,5,-1,UNDER-CALLED - Increase Visits
+HCP0443,Midwest,Tier 2 - Medium Value,6,5,-1,UNDER-CALLED - Increase Visits
+HCP0651,Southeast,Tier 2 - Medium Value,6,5,-1,UNDER-CALLED - Increase Visits
+HCP0652,Southeast,Tier 2 - Medium Value,6,5,-1,UNDER-CALLED - Increase Visits
+HCP0175,Southeast,Tier 2 - Medium Value,6,5,-1,UNDER-CALLED - Increase Visits
+HCP0554,Southeast,Tier 2 - Medium Value,6,5,-1,UNDER-CALLED - Increase Visits
+HCP0318,West,Tier 2 - Medium Value,6,5,-1,UNDER-CALLED - Increase Visits
+HCP0745,West,Tier 2 - Medium Value,6,5,-1,UNDER-CALLED - Increase Visits
+HCP0214,Southwest,Tier 2 - Medium Value,6,5,-1,UNDER-CALLED - Increase Visits
+HCP0471,Northwest,Tier 2 - Medium Value,6,5,-1,UNDER-CALLED - Increase Visits
+HCP0132,Southwest,Tier 2 - Medium Value,6,5,-1,UNDER-CALLED - Increase Visits
+HCP0279,Midwest,Tier 2 - Medium Value,6,5,-1,UNDER-CALLED - Increase Visits
+HCP0576,Midwest,Tier 2 - Medium Value,6,5,-1,UNDER-CALLED - Increase Visits
+HCP0522,West,Tier 2 - Medium Value,6,5,-1,UNDER-CALLED - Increase Visits
+HCP0234,Northeast,Tier 2 - Medium Value,6,5,-1,UNDER-CALLED - Increase Visits
+HCP0426,Midwest,Tier 2 - Medium Value,6,5,-1,UNDER-CALLED - Increase Visits
+HCP0102,Southeast,Tier 2 - Medium Value,6,5,-1,UNDER-CALLED - Increase Visits
+HCP0196,Southeast,Tier 2 - Medium Value,6,5,-1,UNDER-CALLED - Increase Visits
+HCP0129,Southwest,Tier 2 - Medium Value,6,6,0,ON TARGET
+HCP0247,Northwest,Tier 2 - Medium Value,6,6,0,ON TARGET
+HCP0074,Northeast,Tier 2 - Medium Value,6,6,0,ON TARGET
+HCP0397,Midwest,Tier 2 - Medium Value,6,6,0,ON TARGET
+HCP0377,West,Tier 2 - Medium Value,6,6,0,ON TARGET
+HCP0690,Southwest,Tier 2 - Medium Value,6,6,0,ON TARGET
+HCP0026,Midwest,Tier 2 - Medium Value,6,6,0,ON TARGET
+HCP0407,West,Tier 2 - Medium Value,6,6,0,ON TARGET
+HCP0043,Southwest,Tier 2 - Medium Value,6,6,0,ON TARGET
+HCP0236,Southeast,Tier 2 - Medium Value,6,6,0,ON TARGET
+HCP0177,Southwest,Tier 2 - Medium Value,6,6,0,ON TARGET
+HCP0438,West,Tier 2 - Medium Value,6,6,0,ON TARGET
+HCP0640,Northwest,Tier 2 - Medium Value,6,6,0,ON TARGET
+HCP0244,Midwest,Tier 2 - Medium Value,6,6,0,ON TARGET
+HCP0714,Midwest,Tier 2 - Medium Value,6,6,0,ON TARGET
+HCP0317,West,Tier 2 - Medium Value,6,6,0,ON TARGET
+HCP0325,West,Tier 2 - Medium Value,6,6,0,ON TARGET
+HCP0695,Midwest,Tier 2 - Medium Value,6,6,0,ON TARGET
+HCP0470,Midwest,Tier 2 - Medium Value,6,6,0,ON TARGET
+HCP0123,Southeast,Tier 2 - Medium Value,6,6,0,ON TARGET
+HCP0525,Southwest,Tier 2 - Medium Value,6,6,0,ON TARGET
+HCP0241,West,Tier 2 - Medium Value,6,6,0,ON TARGET
+HCP0066,Southeast,Tier 2 - Medium Value,6,6,0,ON TARGET
+HCP0176,Southeast,Tier 2 - Medium Value,6,6,0,ON TARGET
+HCP0211,Midwest,Tier 2 - Medium Value,6,6,0,ON TARGET
+HCP0081,Midwest,Tier 2 - Medium Value,6,6,0,ON TARGET
+HCP0224,Southwest,Tier 2 - Medium Value,6,6,0,ON TARGET
+HCP0041,Southeast,Tier 2 - Medium Value,6,6,0,ON TARGET
+HCP0715,Midwest,Tier 2 - Medium Value,6,6,0,ON TARGET
+HCP0223,Northeast,Tier 2 - Medium Value,6,7,1,ON TARGET
+HCP0416,Southwest,Tier 2 - Medium Value,6,7,1,ON TARGET
+HCP0301,Midwest,Tier 2 - Medium Value,6,7,1,ON TARGET
+HCP0075,Southeast,Tier 2 - Medium Value,6,7,1,ON TARGET
+HCP0599,Southwest,Tier 2 - Medium Value,6,7,1,ON TARGET
+HCP0174,Northeast,Tier 2 - Medium Value,6,7,1,ON TARGET
+HCP0181,Northeast,Tier 2 - Medium Value,6,7,1,ON TARGET
+HCP0516,Southeast,Tier 2 - Medium Value,6,7,1,ON TARGET
+HCP0194,Northwest,Tier 2 - Medium Value,6,7,1,ON TARGET
+HCP0382,Northeast,Tier 2 - Medium Value,6,7,1,ON TARGET
+HCP0458,Southwest,Tier 2 - Medium Value,6,7,1,ON TARGET
+HCP0213,Northeast,Tier 2 - Medium Value,6,7,1,ON TARGET
+HCP0485,West,Tier 2 - Medium Value,6,7,1,ON TARGET
+HCP0107,Northwest,Tier 2 - Medium Value,6,7,1,ON TARGET
+HCP0735,Northeast,Tier 2 - Medium Value,6,7,1,ON TARGET
+HCP0187,Midwest,Tier 2 - Medium Value,6,7,1,ON TARGET
+HCP0305,Southeast,Tier 2 - Medium Value,6,7,1,ON TARGET
+HCP0031,Northwest,Tier 2 - Medium Value,6,8,2,OVER-CALLED - Reallocate Time
+HCP0504,West,Tier 2 - Medium Value,6,8,2,OVER-CALLED - Reallocate Time
+HCP0495,Northeast,Tier 2 - Medium Value,6,8,2,OVER-CALLED - Reallocate Time
+HCP0027,Northeast,Tier 2 - Medium Value,6,8,2,OVER-CALLED - Reallocate Time
+HCP0713,Southeast,Tier 2 - Medium Value,6,8,2,OVER-CALLED - Reallocate Time
+HCP0291,West,Tier 2 - Medium Value,6,8,2,OVER-CALLED - Reallocate Time
+HCP0251,Southwest,Tier 2 - Medium Value,6,8,2,OVER-CALLED - Reallocate Time
+HCP0314,Northeast,Tier 2 - Medium Value,6,8,2,OVER-CALLED - Reallocate Time
+HCP0557,Southeast,Tier 2 - Medium Value,6,8,2,OVER-CALLED - Reallocate Time
+HCP0580,West,Tier 2 - Medium Value,6,8,2,OVER-CALLED - Reallocate Time
+HCP0609,Northwest,Tier 2 - Medium Value,6,8,2,OVER-CALLED - Reallocate Time
+HCP0612,Southwest,Tier 2 - Medium Value,6,8,2,OVER-CALLED - Reallocate Time
+HCP0374,Southwest,Tier 2 - Medium Value,6,9,3,OVER-CALLED - Reallocate Time
+HCP0299,Northwest,Tier 2 - Medium Value,6,9,3,OVER-CALLED - Reallocate Time
+HCP0376,Northeast,Tier 2 - Medium Value,6,9,3,OVER-CALLED - Reallocate Time
+HCP0059,West,Tier 2 - Medium Value,6,9,3,OVER-CALLED - Reallocate Time
+HCP0455,Southeast,Tier 2 - Medium Value,6,9,3,OVER-CALLED - Reallocate Time
+HCP0737,Northeast,Tier 2 - Medium Value,6,10,4,OVER-CALLED - Reallocate Time
+HCP0500,Southeast,Tier 2 - Medium Value,6,11,5,OVER-CALLED - Reallocate Time
+HCP0687,Northwest,Tier 3 - Low Value,3,0,-3,UNDER-CALLED - Increase Visits
+HCP0062,Southwest,Tier 3 - Low Value,3,0,-3,UNDER-CALLED - Increase Visits
+HCP0068,West,Tier 3 - Low Value,3,0,-3,UNDER-CALLED - Increase Visits
+HCP0730,West,Tier 3 - Low Value,3,0,-3,UNDER-CALLED - Increase Visits
+HCP0744,Southeast,Tier 3 - Low Value,3,0,-3,UNDER-CALLED - Increase Visits
+HCP0347,Southeast,Tier 3 - Low Value,3,0,-3,UNDER-CALLED - Increase Visits
+HCP0146,Southeast,Tier 3 - Low Value,3,0,-3,UNDER-CALLED - Increase Visits
+HCP0086,Southwest,Tier 3 - Low Value,3,0,-3,UNDER-CALLED - Increase Visits
+HCP0427,West,Tier 3 - Low Value,3,0,-3,UNDER-CALLED - Increase Visits
+HCP0718,Northwest,Tier 3 - Low Value,3,0,-3,UNDER-CALLED - Increase Visits
+HCP0160,Northeast,Tier 3 - Low Value,3,1,-2,UNDER-CALLED - Increase Visits
+HCP0221,Midwest,Tier 3 - Low Value,3,1,-2,UNDER-CALLED - Increase Visits
+HCP0762,Northwest,Tier 3 - Low Value,3,1,-2,UNDER-CALLED - Increase Visits
+HCP0531,Southeast,Tier 3 - Low Value,3,1,-2,UNDER-CALLED - Increase Visits
+HCP0694,Southeast,Tier 3 - Low Value,3,1,-2,UNDER-CALLED - Increase Visits
+HCP0266,Southwest,Tier 3 - Low Value,3,1,-2,UNDER-CALLED - Increase Visits
+HCP0249,West,Tier 3 - Low Value,3,1,-2,UNDER-CALLED - Increase Visits
+HCP0242,Midwest,Tier 3 - Low Value,3,1,-2,UNDER-CALLED - Increase Visits
+HCP0056,Southeast,Tier 3 - Low Value,3,1,-2,UNDER-CALLED - Increase Visits
+HCP0206,Southeast,Tier 3 - Low Value,3,1,-2,UNDER-CALLED - Increase Visits
+HCP0538,Northeast,Tier 3 - Low Value,3,1,-2,UNDER-CALLED - Increase Visits
+HCP0061,Southwest,Tier 3 - Low Value,3,1,-2,UNDER-CALLED - Increase Visits
+HCP0733,West,Tier 3 - Low Value,3,1,-2,UNDER-CALLED - Increase Visits
+HCP0009,Midwest,Tier 3 - Low Value,3,1,-2,UNDER-CALLED - Increase Visits
+HCP0164,Midwest,Tier 3 - Low Value,3,1,-2,UNDER-CALLED - Increase Visits
+HCP0172,Midwest,Tier 3 - Low Value,3,1,-2,UNDER-CALLED - Increase Visits
+HCP0406,Southwest,Tier 3 - Low Value,3,1,-2,UNDER-CALLED - Increase Visits
+HCP0636,Northeast,Tier 3 - Low Value,3,1,-2,UNDER-CALLED - Increase Visits
+HCP0691,Northeast,Tier 3 - Low Value,3,1,-2,UNDER-CALLED - Increase Visits
+HCP0460,Southeast,Tier 3 - Low Value,3,1,-2,UNDER-CALLED - Increase Visits
+HCP0716,Southwest,Tier 3 - Low Value,3,1,-2,UNDER-CALLED - Increase Visits
+HCP0220,West,Tier 3 - Low Value,3,1,-2,UNDER-CALLED - Increase Visits
+HCP0587,Northwest,Tier 3 - Low Value,3,1,-2,UNDER-CALLED - Increase Visits
+HCP0300,Northeast,Tier 3 - Low Value,3,1,-2,UNDER-CALLED - Increase Visits
+HCP0362,Southwest,Tier 3 - Low Value,3,1,-2,UNDER-CALLED - Increase Visits
+HCP0414,Southwest,Tier 3 - Low Value,3,1,-2,UNDER-CALLED - Increase Visits
+HCP0459,West,Tier 3 - Low Value,3,1,-2,UNDER-CALLED - Increase Visits
+HCP0669,Northwest,Tier 3 - Low Value,3,1,-2,UNDER-CALLED - Increase Visits
+HCP0358,Midwest,Tier 3 - Low Value,3,1,-2,UNDER-CALLED - Increase Visits
+HCP0465,Northeast,Tier 3 - Low Value,3,1,-2,UNDER-CALLED - Increase Visits
+HCP0746,Northwest,Tier 3 - Low Value,3,1,-2,UNDER-CALLED - Increase Visits
+HCP0441,West,Tier 3 - Low Value,3,1,-2,UNDER-CALLED - Increase Visits
+HCP0518,Southeast,Tier 3 - Low Value,3,1,-2,UNDER-CALLED - Increase Visits
+HCP0546,West,Tier 3 - Low Value,3,1,-2,UNDER-CALLED - Increase Visits
+HCP0231,Southeast,Tier 3 - Low Value,3,1,-2,UNDER-CALLED - Increase Visits
+HCP0446,Northeast,Tier 3 - Low Value,3,1,-2,UNDER-CALLED - Increase Visits
+HCP0138,West,Tier 3 - Low Value,3,2,-1,UNDER-CALLED - Increase Visits
+HCP0122,Midwest,Tier 3 - Low Value,3,2,-1,UNDER-CALLED - Increase Visits
+HCP0703,Southeast,Tier 3 - Low Value,3,2,-1,UNDER-CALLED - Increase Visits
+HCP0497,Southeast,Tier 3 - Low Value,3,2,-1,UNDER-CALLED - Increase Visits
+HCP0686,Southeast,Tier 3 - Low Value,3,2,-1,UNDER-CALLED - Increase Visits
+HCP0259,West,Tier 3 - Low Value,3,2,-1,UNDER-CALLED - Increase Visits
+HCP0439,Midwest,Tier 3 - Low Value,3,2,-1,UNDER-CALLED - Increase Visits
+HCP0252,Southeast,Tier 3 - Low Value,3,2,-1,UNDER-CALLED - Increase Visits
+HCP0676,Northwest,Tier 3 - Low Value,3,2,-1,UNDER-CALLED - Increase Visits
+HCP0230,Northwest,Tier 3 - Low Value,3,2,-1,UNDER-CALLED - Increase Visits
+HCP0083,Northwest,Tier 3 - Low Value,3,2,-1,UNDER-CALLED - Increase Visits
+HCP0783,Midwest,Tier 3 - Low Value,3,2,-1,UNDER-CALLED - Increase Visits
+HCP0523,Northeast,Tier 3 - Low Value,3,2,-1,UNDER-CALLED - Increase Visits
+HCP0060,West,Tier 3 - Low Value,3,2,-1,UNDER-CALLED - Increase Visits
+HCP0079,Northeast,Tier 3 - Low Value,3,2,-1,UNDER-CALLED - Increase Visits
+HCP0510,Southwest,Tier 3 - Low Value,3,2,-1,UNDER-CALLED - Increase Visits
+HCP0137,Southeast,Tier 3 - Low Value,3,2,-1,UNDER-CALLED - Increase Visits
+HCP0578,West,Tier 3 - Low Value,3,2,-1,UNDER-CALLED - Increase Visits
+HCP0483,West,Tier 3 - Low Value,3,2,-1,UNDER-CALLED - Increase Visits
+HCP0519,Northwest,Tier 3 - Low Value,3,2,-1,UNDER-CALLED - Increase Visits
+HCP0070,West,Tier 3 - Low Value,3,2,-1,UNDER-CALLED - Increase Visits
+HCP0670,West,Tier 3 - Low Value,3,2,-1,UNDER-CALLED - Increase Visits
+HCP0145,Midwest,Tier 3 - Low Value,3,2,-1,UNDER-CALLED - Increase Visits
+HCP0179,Northeast,Tier 3 - Low Value,3,2,-1,UNDER-CALLED - Increase Visits
+HCP0298,Northeast,Tier 3 - Low Value,3,2,-1,UNDER-CALLED - Increase Visits
+HCP0544,Southwest,Tier 3 - Low Value,3,2,-1,UNDER-CALLED - Increase Visits
+HCP0117,Northwest,Tier 3 - Low Value,3,2,-1,UNDER-CALLED - Increase Visits
+HCP0731,Northwest,Tier 3 - Low Value,3,2,-1,UNDER-CALLED - Increase Visits
+HCP0276,Southwest,Tier 3 - Low Value,3,2,-1,UNDER-CALLED - Increase Visits
+HCP0701,Midwest,Tier 3 - Low Value,3,2,-1,UNDER-CALLED - Increase Visits
+HCP0073,West,Tier 3 - Low Value,3,2,-1,UNDER-CALLED - Increase Visits
+HCP0781,Northwest,Tier 3 - Low Value,3,2,-1,UNDER-CALLED - Increase Visits
+HCP0786,West,Tier 3 - Low Value,3,2,-1,UNDER-CALLED - Increase Visits
+HCP0729,West,Tier 3 - Low Value,3,2,-1,UNDER-CALLED - Increase Visits
+HCP0712,West,Tier 3 - Low Value,3,2,-1,UNDER-CALLED - Increase Visits
+HCP0673,Midwest,Tier 3 - Low Value,3,2,-1,UNDER-CALLED - Increase Visits
+HCP0034,West,Tier 3 - Low Value,3,2,-1,UNDER-CALLED - Increase Visits
+HCP0797,Midwest,Tier 3 - Low Value,3,2,-1,UNDER-CALLED - Increase Visits
+HCP0573,Northwest,Tier 3 - Low Value,3,2,-1,UNDER-CALLED - Increase Visits
+HCP0210,Northwest,Tier 3 - Low Value,3,2,-1,UNDER-CALLED - Increase Visits
+HCP0304,Northwest,Tier 3 - Low Value,3,2,-1,UNDER-CALLED - Increase Visits
+HCP0724,Southeast,Tier 3 - Low Value,3,2,-1,UNDER-CALLED - Increase Visits
+HCP0045,Southwest,Tier 3 - Low Value,3,2,-1,UNDER-CALLED - Increase Visits
+HCP0473,Northwest,Tier 3 - Low Value,3,2,-1,UNDER-CALLED - Increase Visits
+HCP0294,Northwest,Tier 3 - Low Value,3,2,-1,UNDER-CALLED - Increase Visits
+HCP0575,West,Tier 3 - Low Value,3,2,-1,UNDER-CALLED - Increase Visits
+HCP0320,Southeast,Tier 3 - Low Value,3,2,-1,UNDER-CALLED - Increase Visits
+HCP0005,Southwest,Tier 3 - Low Value,3,2,-1,UNDER-CALLED - Increase Visits
+HCP0212,Southwest,Tier 3 - Low Value,3,2,-1,UNDER-CALLED - Increase Visits
+HCP0457,Southwest,Tier 3 - Low Value,3,2,-1,UNDER-CALLED - Increase Visits
+HCP0769,Southwest,Tier 3 - Low Value,3,2,-1,UNDER-CALLED - Increase Visits
+HCP0333,West,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0381,Midwest,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0022,Northwest,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0126,Northeast,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0309,Southwest,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0113,Southeast,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0328,Midwest,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0456,Northwest,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0796,Southeast,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0432,Southwest,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0120,Northeast,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0650,Southeast,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0736,Midwest,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0292,Northeast,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0110,Southwest,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0391,West,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0434,Southwest,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0168,Northeast,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0561,Northeast,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0529,Midwest,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0753,West,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0162,West,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0726,West,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0770,Northwest,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0585,Northeast,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0379,Southwest,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0755,Southwest,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0288,Southwest,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0010,Northwest,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0487,West,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0428,Northeast,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0451,Southwest,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0088,Northeast,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0401,Midwest,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0018,Northeast,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0479,Northwest,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0302,Southwest,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0245,Southeast,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0115,Southwest,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0183,Southwest,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0419,Midwest,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0605,Southwest,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0536,Midwest,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0046,Midwest,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0611,Midwest,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0293,Southeast,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0112,Northwest,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0336,West,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0080,Southeast,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0668,West,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0371,Midwest,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0413,Southeast,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0688,West,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0410,Southwest,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0142,Midwest,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0681,Northeast,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0315,Northeast,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0208,Northeast,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0616,Northwest,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0788,Midwest,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0262,Northeast,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0275,Midwest,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0793,West,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0700,Southwest,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0380,Southeast,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0667,Southeast,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0169,Northwest,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0600,Southwest,Tier 3 - Low Value,3,3,0,ON TARGET
+HCP0332,Northeast,Tier 3 - Low Value,3,4,1,OVER-CALLED - Reallocate Time
+HCP0157,Northwest,Tier 3 - Low Value,3,4,1,OVER-CALLED - Reallocate Time
+HCP0642,Southwest,Tier 3 - Low Value,3,4,1,OVER-CALLED - Reallocate Time
+HCP0728,West,Tier 3 - Low Value,3,4,1,OVER-CALLED - Reallocate Time
+HCP0437,Southeast,Tier 3 - Low Value,3,4,1,OVER-CALLED - Reallocate Time
+HCP0422,Southwest,Tier 3 - Low Value,3,4,1,OVER-CALLED - Reallocate Time
+HCP0757,Southwest,Tier 3 - Low Value,3,4,1,OVER-CALLED - Reallocate Time
+HCP0028,West,Tier 3 - Low Value,3,4,1,OVER-CALLED - Reallocate Time
+HCP0564,West,Tier 3 - Low Value,3,4,1,OVER-CALLED - Reallocate Time
+HCP0513,Northwest,Tier 3 - Low Value,3,4,1,OVER-CALLED - Reallocate Time
+HCP0795,Midwest,Tier 3 - Low Value,3,4,1,OVER-CALLED - Reallocate Time
+HCP0787,Southeast,Tier 3 - Low Value,3,4,1,OVER-CALLED - Reallocate Time
+HCP0550,Southwest,Tier 3 - Low Value,3,4,1,OVER-CALLED - Reallocate Time
+HCP0359,West,Tier 3 - Low Value,3,4,1,OVER-CALLED - Reallocate Time
+HCP0672,Midwest,Tier 3 - Low Value,3,4,1,OVER-CALLED - Reallocate Time
+HCP0588,Northeast,Tier 3 - Low Value,3,4,1,OVER-CALLED - Reallocate Time
+HCP0202,Midwest,Tier 3 - Low Value,3,4,1,OVER-CALLED - Reallocate Time
+HCP0355,Northwest,Tier 3 - Low Value,3,4,1,OVER-CALLED - Reallocate Time
+HCP0226,Southeast,Tier 3 - Low Value,3,4,1,OVER-CALLED - Reallocate Time
+HCP0082,Northeast,Tier 3 - Low Value,3,4,1,OVER-CALLED - Reallocate Time
+HCP0424,Northeast,Tier 3 - Low Value,3,4,1,OVER-CALLED - Reallocate Time
+HCP0524,Midwest,Tier 3 - Low Value,3,4,1,OVER-CALLED - Reallocate Time
+HCP0491,Northwest,Tier 3 - Low Value,3,4,1,OVER-CALLED - Reallocate Time
+HCP0155,Northwest,Tier 3 - Low Value,3,4,1,OVER-CALLED - Reallocate Time
+HCP0039,Northwest,Tier 3 - Low Value,3,4,1,OVER-CALLED - Reallocate Time
+HCP0352,Northwest,Tier 3 - Low Value,3,4,1,OVER-CALLED - Reallocate Time
+HCP0185,Southeast,Tier 3 - Low Value,3,4,1,OVER-CALLED - Reallocate Time
+HCP0149,Midwest,Tier 3 - Low Value,3,4,1,OVER-CALLED - Reallocate Time
+HCP0689,West,Tier 3 - Low Value,3,4,1,OVER-CALLED - Reallocate Time
+HCP0663,Northeast,Tier 3 - Low Value,3,4,1,OVER-CALLED - Reallocate Time
+HCP0784,Northeast,Tier 3 - Low Value,3,4,1,OVER-CALLED - Reallocate Time
+HCP0331,Southeast,Tier 3 - Low Value,3,4,1,OVER-CALLED - Reallocate Time
+HCP0475,Northeast,Tier 3 - Low Value,3,4,1,OVER-CALLED - Reallocate Time
+HCP0591,West,Tier 3 - Low Value,3,4,1,OVER-CALLED - Reallocate Time
+HCP0494,Northwest,Tier 3 - Low Value,3,4,1,OVER-CALLED - Reallocate Time
+HCP0243,Southeast,Tier 3 - Low Value,3,4,1,OVER-CALLED - Reallocate Time
+HCP0693,Midwest,Tier 3 - Low Value,3,4,1,OVER-CALLED - Reallocate Time
+HCP0023,Northeast,Tier 3 - Low Value,3,4,1,OVER-CALLED - Reallocate Time
+HCP0629,West,Tier 3 - Low Value,3,4,1,OVER-CALLED - Reallocate Time
+HCP0148,Southwest,Tier 3 - Low Value,3,4,1,OVER-CALLED - Reallocate Time
+HCP0727,Southwest,Tier 3 - Low Value,3,4,1,OVER-CALLED - Reallocate Time
+HCP0602,Midwest,Tier 3 - Low Value,3,4,1,OVER-CALLED - Reallocate Time
+HCP0481,Southwest,Tier 3 - Low Value,3,4,1,OVER-CALLED - Reallocate Time
+HCP0560,Northeast,Tier 3 - Low Value,3,4,1,OVER-CALLED - Reallocate Time
+HCP0306,West,Tier 3 - Low Value,3,4,1,OVER-CALLED - Reallocate Time
+HCP0011,Southeast,Tier 3 - Low Value,3,4,1,OVER-CALLED - Reallocate Time
+HCP0200,West,Tier 3 - Low Value,3,4,1,OVER-CALLED - Reallocate Time
+HCP0766,Northwest,Tier 3 - Low Value,3,4,1,OVER-CALLED - Reallocate Time
+HCP0710,Midwest,Tier 3 - Low Value,3,4,1,OVER-CALLED - Reallocate Time
+HCP0257,West,Tier 3 - Low Value,3,4,1,OVER-CALLED - Reallocate Time
+HCP0195,Northwest,Tier 3 - Low Value,3,5,2,OVER-CALLED - Reallocate Time
+HCP0480,Southwest,Tier 3 - Low Value,3,5,2,OVER-CALLED - Reallocate Time
+HCP0799,Northwest,Tier 3 - Low Value,3,5,2,OVER-CALLED - Reallocate Time
+HCP0551,Midwest,Tier 3 - Low Value,3,5,2,OVER-CALLED - Reallocate Time
+HCP0493,Southeast,Tier 3 - Low Value,3,5,2,OVER-CALLED - Reallocate Time
+HCP0607,Northwest,Tier 3 - Low Value,3,5,2,OVER-CALLED - Reallocate Time
+HCP0219,Northeast,Tier 3 - Low Value,3,5,2,OVER-CALLED - Reallocate Time
+HCP0593,Northeast,Tier 3 - Low Value,3,5,2,OVER-CALLED - Reallocate Time
+HCP0698,Southwest,Tier 3 - Low Value,3,5,2,OVER-CALLED - Reallocate Time
+HCP0505,Midwest,Tier 3 - Low Value,3,5,2,OVER-CALLED - Reallocate Time
+HCP0628,West,Tier 3 - Low Value,3,5,2,OVER-CALLED - Reallocate Time
+HCP0150,Midwest,Tier 3 - Low Value,3,5,2,OVER-CALLED - Reallocate Time
+HCP0167,Midwest,Tier 3 - Low Value,3,5,2,OVER-CALLED - Reallocate Time
+HCP0747,Southeast,Tier 3 - Low Value,3,5,2,OVER-CALLED - Reallocate Time
+HCP0771,Southwest,Tier 3 - Low Value,3,5,2,OVER-CALLED - Reallocate Time
+HCP0049,West,Tier 3 - Low Value,3,5,2,OVER-CALLED - Reallocate Time
+HCP0076,Northwest,Tier 3 - Low Value,3,5,2,OVER-CALLED - Reallocate Time
+HCP0517,Southeast,Tier 3 - Low Value,3,6,3,OVER-CALLED - Reallocate Time
+HCP0595,Northeast,Tier 3 - Low Value,3,6,3,OVER-CALLED - Reallocate Time
+HCP0418,Southeast,Tier 3 - Low Value,3,6,3,OVER-CALLED - Reallocate Time
+HCP0029,Southeast,Tier 3 - Low Value,3,6,3,OVER-CALLED - Reallocate Time
+HCP0661,Northeast,Tier 3 - Low Value,3,6,3,OVER-CALLED - Reallocate Time
+HCP0368,Northwest,Tier 3 - Low Value,3,6,3,OVER-CALLED - Reallocate Time
+HCP0476,Southeast,Tier 3 - Low Value,3,6,3,OVER-CALLED - Reallocate Time
+HCP0153,Midwest,Tier 3 - Low Value,3,6,3,OVER-CALLED - Reallocate Time
+HCP0363,Midwest,Tier 3 - Low Value,3,6,3,OVER-CALLED - Reallocate Time
+HCP0171,Southwest,Tier 3 - Low Value,3,6,3,OVER-CALLED - Reallocate Time
+HCP0800,Southeast,Tier 3 - Low Value,3,6,3,OVER-CALLED - Reallocate Time
+HCP0357,Northeast,Tier 3 - Low Value,3,6,3,OVER-CALLED - Reallocate Time
+HCP0264,Southeast,Tier 3 - Low Value,3,6,3,OVER-CALLED - Reallocate Time
+HCP0764,West,Tier 3 - Low Value,3,6,3,OVER-CALLED - Reallocate Time
+HCP0425,Northwest,Tier 3 - Low Value,3,6,3,OVER-CALLED - Reallocate Time
+HCP0490,West,Tier 3 - Low Value,3,6,3,OVER-CALLED - Reallocate Time
+HCP0767,Southeast,Tier 3 - Low Value,3,6,3,OVER-CALLED - Reallocate Time
+HCP0596,West,Tier 3 - Low Value,3,6,3,OVER-CALLED - Reallocate Time
+HCP0228,Southeast,Tier 3 - Low Value,3,6,3,OVER-CALLED - Reallocate Time
+HCP0346,Northeast,Tier 3 - Low Value,3,7,4,OVER-CALLED - Reallocate Time
+HCP0365,Midwest,Tier 3 - Low Value,3,7,4,OVER-CALLED - Reallocate Time
+HCP0269,Northwest,Tier 3 - Low Value,3,7,4,OVER-CALLED - Reallocate Time
+HCP0773,Northwest,Tier 3 - Low Value,3,7,4,OVER-CALLED - Reallocate Time
+HCP0569,Northeast,Tier 3 - Low Value,3,7,4,OVER-CALLED - Reallocate Time
+HCP0552,Midwest,Tier 3 - Low Value,3,7,4,OVER-CALLED - Reallocate Time
+HCP0647,Northwest,Tier 3 - Low Value,3,7,4,OVER-CALLED - Reallocate Time
+HCP0645,Northwest,Tier 3 - Low Value,3,8,5,OVER-CALLED - Reallocate Time
+HCP0586,Northwest,Tier 3 - Low Value,3,8,5,OVER-CALLED - Reallocate Time
+HCP0334,West,Tier 3 - Low Value,3,8,5,OVER-CALLED - Reallocate Time
+HCP0717,Southwest,Tier 3 - Low Value,3,8,5,OVER-CALLED - Reallocate Time
+HCP0778,Northeast,Tier 3 - Low Value,3,8,5,OVER-CALLED - Reallocate Time
+HCP0790,Southwest,Tier 3 - Low Value,3,10,7,OVER-CALLED - Reallocate Time
+HCP0161,Southeast,Tier 3 - Low Value,3,10,7,OVER-CALLED - Reallocate Time
+HCP0792,West,Tier 3 - Low Value,3,13,10,OVER-CALLED - Reallocate Time

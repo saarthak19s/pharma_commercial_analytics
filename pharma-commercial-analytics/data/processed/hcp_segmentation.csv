@@ -1,0 +1,801 @@
+hcp_id,specialty,territory,patient_volume_monthly,total_revenue,total_rx,hcp_segment
+HCP0542,Endocrinologist,Southwest,1174,82245,166,Tier 1 - High Value
+HCP0344,General Physician,Midwest,1045,78375,102,Tier 1 - High Value
+HCP0503,Neurologist,West,867,72320,110,Tier 1 - High Value
+HCP0003,General Physician,West,1071,70470,154,Tier 1 - High Value
+HCP0603,Endocrinologist,Southwest,794,69740,149,Tier 1 - High Value
+HCP0702,General Physician,West,1092,67890,123,Tier 1 - High Value
+HCP0637,Cardiologist,Northeast,1177,63810,143,Tier 1 - High Value
+HCP0567,General Physician,Northwest,989,62350,132,Tier 1 - High Value
+HCP0722,Pulmonologist,Northwest,1112,62000,119,Tier 1 - High Value
+HCP0514,Neurologist,Midwest,960,58565,115,Tier 1 - High Value
+HCP0329,General Physician,Northwest,1182,56045,102,Tier 1 - High Value
+HCP0216,General Physician,Northwest,899,54270,102,Tier 1 - High Value
+HCP0258,Pulmonologist,Northeast,660,53320,107,Tier 1 - High Value
+HCP0239,Pulmonologist,Southeast,1157,52845,153,Tier 1 - High Value
+HCP0678,General Physician,Northwest,647,51440,82,Tier 1 - High Value
+HCP0339,General Physician,Southwest,532,50230,112,Tier 1 - High Value
+HCP0367,General Physician,Southeast,1093,50005,136,Tier 1 - High Value
+HCP0095,General Physician,Southeast,1061,49960,115,Tier 1 - High Value
+HCP0720,Endocrinologist,West,544,49395,107,Tier 1 - High Value
+HCP0760,Neurologist,Southeast,1164,48730,130,Tier 1 - High Value
+HCP0100,Cardiologist,Midwest,985,48675,100,Tier 1 - High Value
+HCP0398,General Physician,Southeast,930,47825,99,Tier 1 - High Value
+HCP0543,Oncologist,Southwest,920,47045,136,Tier 1 - High Value
+HCP0685,Pulmonologist,Midwest,1166,46140,143,Tier 1 - High Value
+HCP0209,General Physician,West,1037,45805,97,Tier 1 - High Value
+HCP0055,Neurologist,Midwest,582,45445,88,Tier 1 - High Value
+HCP0671,General Physician,Northwest,995,45345,139,Tier 1 - High Value
+HCP0571,Neurologist,Southwest,1138,45140,145,Tier 1 - High Value
+HCP0750,General Physician,Southeast,1029,45070,104,Tier 1 - High Value
+HCP0723,Neurologist,Southwest,642,44660,88,Tier 1 - High Value
+HCP0284,Oncologist,Northwest,930,44315,93,Tier 1 - High Value
+HCP0658,Cardiologist,Midwest,1122,44035,98,Tier 1 - High Value
+HCP0565,Endocrinologist,Midwest,1101,43270,114,Tier 1 - High Value
+HCP0340,Oncologist,Midwest,958,42415,126,Tier 1 - High Value
+HCP0033,Neurologist,Midwest,980,42225,108,Tier 1 - High Value
+HCP0197,General Physician,West,828,42210,104,Tier 1 - High Value
+HCP0319,General Physician,Midwest,1057,42175,124,Tier 1 - High Value
+HCP0204,Oncologist,Southwest,1006,42135,104,Tier 1 - High Value
+HCP0447,Neurologist,Midwest,1196,42085,149,Tier 1 - High Value
+HCP0448,General Physician,Southeast,407,41440,72,Tier 1 - High Value
+HCP0794,Pulmonologist,Southwest,803,41110,118,Tier 1 - High Value
+HCP0128,General Physician,Southeast,1108,40840,126,Tier 1 - High Value
+HCP0775,Pulmonologist,West,873,40245,112,Tier 1 - High Value
+HCP0558,Oncologist,Southwest,1001,40150,170,Tier 1 - High Value
+HCP0774,Pulmonologist,Northwest,700,39845,72,Tier 1 - High Value
+HCP0361,Neurologist,Northeast,1190,39825,119,Tier 1 - High Value
+HCP0016,General Physician,Southwest,1035,39770,86,Tier 1 - High Value
+HCP0173,Cardiologist,Southeast,798,39495,111,Tier 1 - High Value
+HCP0699,General Physician,Southwest,1066,39335,102,Tier 1 - High Value
+HCP0321,General Physician,Southwest,1142,39245,140,Tier 1 - High Value
+HCP0492,Cardiologist,Northeast,1085,38995,164,Tier 1 - High Value
+HCP0791,Endocrinologist,Northeast,840,38750,96,Tier 1 - High Value
+HCP0394,Cardiologist,Northeast,560,38715,78,Tier 1 - High Value
+HCP0537,Endocrinologist,Midwest,842,38555,116,Tier 1 - High Value
+HCP0620,General Physician,Midwest,825,38285,77,Tier 1 - High Value
+HCP0549,Cardiologist,Northeast,1086,38090,117,Tier 1 - High Value
+HCP0590,Neurologist,West,933,37650,128,Tier 1 - High Value
+HCP0215,General Physician,Northwest,776,37600,118,Tier 1 - High Value
+HCP0635,Neurologist,Southeast,520,37590,79,Tier 1 - High Value
+HCP0405,General Physician,Northwest,992,37490,114,Tier 1 - High Value
+HCP0468,General Physician,West,830,37460,81,Tier 1 - High Value
+HCP0608,Cardiologist,Southeast,805,37445,121,Tier 1 - High Value
+HCP0466,General Physician,Northeast,962,37010,96,Tier 1 - High Value
+HCP0286,Neurologist,Southwest,374,36950,112,Tier 1 - High Value
+HCP0035,Cardiologist,West,773,36740,130,Tier 1 - High Value
+HCP0396,Cardiologist,Midwest,990,36615,126,Tier 1 - High Value
+HCP0429,Endocrinologist,Midwest,960,36575,148,Tier 1 - High Value
+HCP0614,General Physician,Northeast,1022,36210,71,Tier 1 - High Value
+HCP0192,General Physician,West,905,36160,143,Tier 1 - High Value
+HCP0263,Pulmonologist,Southwest,896,36105,135,Tier 1 - High Value
+HCP0078,Neurologist,Northwest,905,36090,123,Tier 1 - High Value
+HCP0108,Neurologist,Southeast,870,36065,107,Tier 1 - High Value
+HCP0754,Cardiologist,Midwest,1090,35820,96,Tier 1 - High Value
+HCP0057,General Physician,Southeast,998,35595,119,Tier 1 - High Value
+HCP0488,Pulmonologist,Midwest,752,35535,172,Tier 1 - High Value
+HCP0545,Pulmonologist,Midwest,1073,35500,112,Tier 1 - High Value
+HCP0141,Cardiologist,Northeast,708,35240,132,Tier 1 - High Value
+HCP0656,General Physician,Midwest,912,35045,105,Tier 1 - High Value
+HCP0190,Endocrinologist,Southwest,866,35040,85,Tier 1 - High Value
+HCP0641,General Physician,Northeast,1029,34885,91,Tier 1 - High Value
+HCP0067,Endocrinologist,Southwest,937,34525,132,Tier 1 - High Value
+HCP0583,Pulmonologist,West,917,34360,149,Tier 1 - High Value
+HCP0768,Cardiologist,Southwest,1114,34105,80,Tier 1 - High Value
+HCP0675,Oncologist,West,1195,33950,141,Tier 1 - High Value
+HCP0335,General Physician,Midwest,349,33775,103,Tier 1 - High Value
+HCP0165,Pulmonologist,Midwest,779,33420,103,Tier 1 - High Value
+HCP0307,Cardiologist,Southeast,1108,33015,120,Tier 1 - High Value
+HCP0782,Cardiologist,Northeast,1182,32915,103,Tier 1 - High Value
+HCP0548,Pulmonologist,Midwest,941,32895,118,Tier 1 - High Value
+HCP0139,General Physician,Northwest,608,32415,81,Tier 1 - High Value
+HCP0417,Pulmonologist,Midwest,745,32385,85,Tier 1 - High Value
+HCP0354,Pulmonologist,Southwest,569,32370,117,Tier 1 - High Value
+HCP0454,General Physician,West,499,32335,97,Tier 1 - High Value
+HCP0662,Cardiologist,Northwest,608,32255,94,Tier 1 - High Value
+HCP0553,Endocrinologist,Northeast,1173,32065,109,Tier 1 - High Value
+HCP0621,Pulmonologist,Northeast,274,32060,72,Tier 1 - High Value
+HCP0096,Oncologist,Southwest,447,32055,96,Tier 1 - High Value
+HCP0739,Pulmonologist,Southeast,662,32055,104,Tier 1 - High Value
+HCP0540,Cardiologist,West,859,31910,109,Tier 1 - High Value
+HCP0622,Pulmonologist,Northeast,1032,31855,107,Tier 1 - High Value
+HCP0748,Cardiologist,Midwest,654,31795,105,Tier 1 - High Value
+HCP0664,Endocrinologist,Northeast,538,31780,86,Tier 1 - High Value
+HCP0461,Neurologist,Southwest,1023,31730,79,Tier 1 - High Value
+HCP0012,General Physician,West,774,31710,107,Tier 1 - High Value
+HCP0399,Pulmonologist,West,786,31700,99,Tier 1 - High Value
+HCP0496,General Physician,Northwest,922,31605,89,Tier 1 - High Value
+HCP0121,Pulmonologist,Northwest,481,31505,99,Tier 1 - High Value
+HCP0127,General Physician,Southwest,1062,31355,125,Tier 1 - High Value
+HCP0660,Pulmonologist,Northwest,1175,31225,202,Tier 1 - High Value
+HCP0738,Pulmonologist,West,839,31190,133,Tier 1 - High Value
+HCP0674,Neurologist,West,785,31100,87,Tier 1 - High Value
+HCP0445,General Physician,Southeast,94,30875,66,Tier 1 - High Value
+HCP0682,Oncologist,West,351,30655,96,Tier 1 - High Value
+HCP0134,General Physician,Northwest,1081,30575,92,Tier 1 - High Value
+HCP0472,General Physician,Midwest,386,30505,73,Tier 1 - High Value
+HCP0776,Cardiologist,Southwest,996,30475,60,Tier 1 - High Value
+HCP0646,General Physician,Southeast,1163,30405,117,Tier 1 - High Value
+HCP0486,Neurologist,Southeast,1095,30390,158,Tier 1 - High Value
+HCP0758,Oncologist,Northeast,910,30365,126,Tier 1 - High Value
+HCP0285,Pulmonologist,Northeast,625,30270,99,Tier 1 - High Value
+HCP0482,Cardiologist,Northwest,1061,30175,140,Tier 1 - High Value
+HCP0789,General Physician,Southwest,511,30175,97,Tier 1 - High Value
+HCP0392,Cardiologist,Southeast,212,30130,71,Tier 1 - High Value
+HCP0604,Endocrinologist,Northeast,714,30130,94,Tier 1 - High Value
+HCP0777,Pulmonologist,Northwest,710,30090,126,Tier 1 - High Value
+HCP0322,Endocrinologist,Southwest,354,30045,104,Tier 1 - High Value
+HCP0375,Cardiologist,Northeast,913,30035,113,Tier 1 - High Value
+HCP0077,Endocrinologist,Midwest,473,29845,73,Tier 1 - High Value
+HCP0188,General Physician,Midwest,431,29760,46,Tier 1 - High Value
+HCP0135,General Physician,Southeast,392,29740,80,Tier 1 - High Value
+HCP0071,Oncologist,Southeast,661,29555,63,Tier 1 - High Value
+HCP0106,Pulmonologist,Northeast,869,29535,142,Tier 1 - High Value
+HCP0704,Oncologist,Northwest,919,29455,97,Tier 1 - High Value
+HCP0272,General Physician,Southeast,728,29315,99,Tier 1 - High Value
+HCP0283,Cardiologist,Southwest,866,29255,144,Tier 1 - High Value
+HCP0779,General Physician,West,637,29125,67,Tier 1 - High Value
+HCP0032,Neurologist,Northwest,911,29110,130,Tier 1 - High Value
+HCP0217,Oncologist,Northeast,1039,29060,106,Tier 1 - High Value
+HCP0639,Cardiologist,Southwest,680,29060,67,Tier 1 - High Value
+HCP0289,Endocrinologist,West,1104,28910,119,Tier 1 - High Value
+HCP0085,Endocrinologist,Southeast,948,28825,76,Tier 1 - High Value
+HCP0440,Pulmonologist,Northwest,991,28750,113,Tier 1 - High Value
+HCP0449,General Physician,Southeast,1139,28665,124,Tier 1 - High Value
+HCP0711,Cardiologist,Midwest,668,28615,104,Tier 1 - High Value
+HCP0337,General Physician,Southwest,408,28600,76,Tier 1 - High Value
+HCP0038,Oncologist,Southwest,1139,28545,114,Tier 1 - High Value
+HCP0527,Pulmonologist,Southwest,1000,28470,139,Tier 1 - High Value
+HCP0534,Endocrinologist,Northwest,978,28410,128,Tier 1 - High Value
+HCP0383,General Physician,Midwest,753,28400,81,Tier 1 - High Value
+HCP0256,Neurologist,Southeast,1180,28375,149,Tier 1 - High Value
+HCP0403,General Physician,Southeast,886,28250,111,Tier 1 - High Value
+HCP0423,Endocrinologist,Southwest,591,28225,61,Tier 1 - High Value
+HCP0763,Oncologist,Southeast,1010,28130,93,Tier 1 - High Value
+HCP0229,Oncologist,Southwest,1008,28070,110,Tier 1 - High Value
+HCP0742,General Physician,West,59,27965,73,Tier 1 - High Value
+HCP0030,General Physician,Midwest,886,27925,87,Tier 1 - High Value
+HCP0098,Pulmonologist,Southeast,983,27890,75,Tier 1 - High Value
+HCP0765,Neurologist,Northwest,1131,27805,103,Tier 1 - High Value
+HCP0278,Endocrinologist,Southeast,608,27800,71,Tier 1 - High Value
+HCP0759,Oncologist,Midwest,742,27625,77,Tier 1 - High Value
+HCP0535,Cardiologist,Midwest,572,27605,84,Tier 1 - High Value
+HCP0271,Cardiologist,Midwest,1191,27600,100,Tier 1 - High Value
+HCP0064,Cardiologist,Northwest,695,27435,56,Tier 1 - High Value
+HCP0109,Endocrinologist,Northeast,1050,27430,79,Tier 1 - High Value
+HCP0643,General Physician,West,589,27325,85,Tier 1 - High Value
+HCP0050,Pulmonologist,Southeast,689,27250,112,Tier 1 - High Value
+HCP0260,General Physician,Southwest,122,27195,91,Tier 1 - High Value
+HCP0094,Endocrinologist,Southeast,992,27065,92,Tier 1 - High Value
+HCP0696,Endocrinologist,Northwest,745,27040,90,Tier 1 - High Value
+HCP0684,General Physician,Northwest,1039,26890,117,Tier 1 - High Value
+HCP0218,Oncologist,Southeast,688,26740,61,Tier 1 - High Value
+HCP0442,General Physician,Southwest,1148,26610,102,Tier 1 - High Value
+HCP0093,General Physician,West,836,26585,72,Tier 1 - High Value
+HCP0511,General Physician,Midwest,186,26445,81,Tier 1 - High Value
+HCP0430,Neurologist,Midwest,190,26255,63,Tier 1 - High Value
+HCP0140,Pulmonologist,Midwest,576,26250,92,Tier 1 - High Value
+HCP0526,Cardiologist,Northeast,681,26235,67,Tier 1 - High Value
+HCP0431,Oncologist,Northeast,697,25875,80,Tier 1 - High Value
+HCP0254,Endocrinologist,Southwest,970,25865,108,Tier 1 - High Value
+HCP0708,Cardiologist,Southwest,932,25815,84,Tier 1 - High Value
+HCP0592,Endocrinologist,West,220,25810,91,Tier 1 - High Value
+HCP0133,General Physician,West,1138,25785,120,Tier 1 - High Value
+HCP0547,General Physician,Northwest,922,25785,92,Tier 1 - High Value
+HCP0178,General Physician,Northeast,930,25775,81,Tier 1 - High Value
+HCP0225,Pulmonologist,Southeast,1186,25730,109,Tier 1 - High Value
+HCP0541,Neurologist,West,962,25705,57,Tier 1 - High Value
+HCP0707,General Physician,Northwest,669,25635,155,Tier 1 - High Value
+HCP0124,Neurologist,West,828,25630,81,Tier 1 - High Value
+HCP0191,Pulmonologist,West,602,25620,72,Tier 1 - High Value
+HCP0649,Neurologist,Northwest,1098,25550,133,Tier 1 - High Value
+HCP0655,General Physician,Northeast,1056,25300,75,Tier 1 - High Value
+HCP0353,Oncologist,Southwest,1048,25255,146,Tier 1 - High Value
+HCP0369,Cardiologist,Northeast,1067,25245,101,Tier 1 - High Value
+HCP0533,Endocrinologist,West,1174,25190,96,Tier 1 - High Value
+HCP0507,General Physician,West,938,25165,86,Tier 1 - High Value
+HCP0273,General Physician,Southeast,489,25150,102,Tier 1 - High Value
+HCP0581,General Physician,Southeast,607,25095,54,Tier 1 - High Value
+HCP0143,Pulmonologist,Southwest,869,25065,116,Tier 1 - High Value
+HCP0453,General Physician,Southeast,371,25005,72,Tier 1 - High Value
+HCP0063,General Physician,Northwest,1188,24925,127,Tier 1 - High Value
+HCP0408,Cardiologist,Southwest,1187,24905,123,Tier 1 - High Value
+HCP0001,Neurologist,Northwest,245,24870,56,Tier 1 - High Value
+HCP0477,Pulmonologist,West,1083,24860,125,Tier 1 - High Value
+HCP0501,Pulmonologist,Northwest,258,24850,99,Tier 1 - High Value
+HCP0313,Cardiologist,Northwest,846,24715,79,Tier 1 - High Value
+HCP0105,Pulmonologist,West,722,24575,96,Tier 1 - High Value
+HCP0506,Neurologist,Midwest,989,24340,93,Tier 1 - High Value
+HCP0631,Pulmonologist,Southeast,659,24255,116,Tier 1 - High Value
+HCP0464,Cardiologist,Northeast,782,24210,74,Tier 1 - High Value
+HCP0568,Neurologist,Northeast,589,24160,89,Tier 1 - High Value
+HCP0469,Pulmonologist,Southwest,1126,24140,131,Tier 1 - High Value
+HCP0182,Neurologist,Northeast,914,24130,113,Tier 1 - High Value
+HCP0532,Pulmonologist,Northwest,1086,24120,88,Tier 1 - High Value
+HCP0227,Cardiologist,Northeast,704,24030,99,Tier 1 - High Value
+HCP0594,Pulmonologist,Northwest,789,24015,85,Tier 1 - High Value
+HCP0351,Neurologist,Midwest,836,24010,71,Tier 1 - High Value
+HCP0677,Oncologist,Southeast,502,23915,82,Tier 1 - High Value
+HCP0345,Cardiologist,Southeast,484,23895,72,Tier 1 - High Value
+HCP0462,Neurologist,Northwest,681,23820,94,Tier 1 - High Value
+HCP0290,Cardiologist,Northeast,886,23720,110,Tier 1 - High Value
+HCP0338,Neurologist,Northwest,885,23705,106,Tier 1 - High Value
+HCP0444,General Physician,Southwest,237,23550,66,Tier 1 - High Value
+HCP0240,General Physician,Northwest,503,23530,106,Tier 1 - High Value
+HCP0570,Cardiologist,Southwest,871,23515,77,Tier 1 - High Value
+HCP0366,Cardiologist,Southeast,1026,23480,59,Tier 1 - High Value
+HCP0740,Neurologist,Southwest,938,23335,108,Tier 1 - High Value
+HCP0433,Cardiologist,Midwest,250,23330,82,Tier 1 - High Value
+HCP0563,General Physician,Southeast,323,23220,96,Tier 1 - High Value
+HCP0709,Oncologist,Northeast,846,23120,72,Tier 1 - High Value
+HCP0415,Neurologist,Northwest,326,23060,84,Tier 1 - High Value
+HCP0316,Cardiologist,Northeast,480,23015,70,Tier 1 - High Value
+HCP0539,Cardiologist,Northwest,1028,22920,102,Tier 1 - High Value
+HCP0705,General Physician,Southeast,935,22875,102,Tier 1 - High Value
+HCP0017,Pulmonologist,Northeast,205,22835,92,Tier 1 - High Value
+HCP0697,Oncologist,West,1163,22740,114,Tier 1 - High Value
+HCP0069,Oncologist,Midwest,599,22725,91,Tier 1 - High Value
+HCP0144,Cardiologist,West,654,22715,91,Tier 1 - High Value
+HCP0634,Endocrinologist,Northeast,1197,22650,94,Tier 1 - High Value
+HCP0665,Endocrinologist,Southeast,735,22650,78,Tier 1 - High Value
+HCP0261,General Physician,Northwest,1103,22600,108,Tier 1 - High Value
+HCP0004,Cardiologist,Northeast,694,22490,134,Tier 1 - High Value
+HCP0752,Pulmonologist,Southwest,678,22460,65,Tier 1 - High Value
+HCP0515,Endocrinologist,Midwest,868,22375,91,Tier 1 - High Value
+HCP0255,Endocrinologist,Midwest,326,22355,72,Tier 1 - High Value
+HCP0597,General Physician,Northwest,168,22350,49,Tier 1 - High Value
+HCP0584,General Physician,Northwest,447,22335,63,Tier 1 - High Value
+HCP0633,Pulmonologist,West,1152,22285,78,Tier 1 - High Value
+HCP0203,General Physician,Northeast,505,22260,98,Tier 1 - High Value
+HCP0090,General Physician,Northwest,1146,22240,148,Tier 1 - High Value
+HCP0761,General Physician,West,1155,21975,73,Tier 1 - High Value
+HCP0498,Cardiologist,Midwest,1067,21860,72,Tier 1 - High Value
+HCP0084,Cardiologist,Northeast,996,21845,94,Tier 1 - High Value
+HCP0601,Endocrinologist,Southeast,747,21815,63,Tier 1 - High Value
+HCP0751,Neurologist,Northwest,453,21780,79,Tier 1 - High Value
+HCP0025,Neurologist,Midwest,1148,21750,78,Tier 1 - High Value
+HCP0579,Oncologist,Southwest,1117,21745,117,Tier 1 - High Value
+HCP0099,Neurologist,Southwest,725,21530,63,Tier 1 - High Value
+HCP0364,Oncologist,Southeast,444,21475,50,Tier 1 - High Value
+HCP0623,Endocrinologist,West,778,21450,79,Tier 1 - High Value
+HCP0654,Cardiologist,West,1141,21440,116,Tier 1 - High Value
+HCP0484,Neurologist,West,457,21405,59,Tier 1 - High Value
+HCP0692,Pulmonologist,Southwest,912,21390,82,Tier 1 - High Value
+HCP0467,General Physician,Southeast,486,21300,94,Tier 1 - High Value
+HCP0582,Pulmonologist,Midwest,1175,21295,131,Tier 1 - High Value
+HCP0598,Pulmonologist,Northwest,833,21255,43,Tier 1 - High Value
+HCP0559,Neurologist,Midwest,1173,21240,79,Tier 1 - High Value
+HCP0198,Cardiologist,Midwest,956,21210,80,Tier 1 - High Value
+HCP0008,Cardiologist,Southeast,695,21110,80,Tier 2 - Medium Value
+HCP0119,General Physician,Midwest,1135,21090,66,Tier 2 - Medium Value
+HCP0232,General Physician,Northwest,499,21080,57,Tier 2 - Medium Value
+HCP0051,General Physician,Southeast,240,20985,51,Tier 2 - Medium Value
+HCP0031,Neurologist,Northwest,669,20980,78,Tier 2 - Medium Value
+HCP0053,Endocrinologist,Southwest,491,20960,63,Tier 2 - Medium Value
+HCP0151,Endocrinologist,West,397,20855,50,Tier 2 - Medium Value
+HCP0277,Neurologist,Southwest,882,20850,69,Tier 2 - Medium Value
+HCP0323,Endocrinologist,Southwest,723,20830,65,Tier 2 - Medium Value
+HCP0058,Oncologist,Midwest,509,20820,75,Tier 2 - Medium Value
+HCP0223,Neurologist,Northeast,985,20785,114,Tier 2 - Medium Value
+HCP0374,General Physician,Southwest,869,20735,122,Tier 2 - Medium Value
+HCP0020,Oncologist,Midwest,595,20685,55,Tier 2 - Medium Value
+HCP0572,Neurologist,Midwest,405,20645,58,Tier 2 - Medium Value
+HCP0006,General Physician,Midwest,750,20585,51,Tier 2 - Medium Value
+HCP0404,Endocrinologist,Southeast,1086,20550,104,Tier 2 - Medium Value
+HCP0048,General Physician,Southwest,1017,20440,106,Tier 2 - Medium Value
+HCP0092,Pulmonologist,Northwest,682,20435,68,Tier 2 - Medium Value
+HCP0416,Pulmonologist,Southwest,243,20300,86,Tier 2 - Medium Value
+HCP0193,Pulmonologist,Midwest,868,20215,116,Tier 2 - Medium Value
+HCP0500,Oncologist,Southeast,343,20135,131,Tier 2 - Medium Value
+HCP0235,Cardiologist,Midwest,612,20125,104,Tier 2 - Medium Value
+HCP0287,General Physician,Northwest,979,19995,83,Tier 2 - Medium Value
+HCP0116,Oncologist,Southeast,744,19985,60,Tier 2 - Medium Value
+HCP0129,Pulmonologist,Southwest,1026,19985,90,Tier 2 - Medium Value
+HCP0280,Oncologist,Midwest,1056,19975,103,Tier 2 - Medium Value
+HCP0632,Endocrinologist,Southeast,461,19910,78,Tier 2 - Medium Value
+HCP0158,Cardiologist,Northwest,396,19775,91,Tier 2 - Medium Value
+HCP0247,Cardiologist,Northwest,317,19715,64,Tier 2 - Medium Value
+HCP0014,Oncologist,West,637,19710,71,Tier 2 - Medium Value
+HCP0301,Oncologist,Midwest,591,19670,72,Tier 2 - Medium Value
+HCP0725,General Physician,Southwest,803,19635,128,Tier 2 - Medium Value
+HCP0478,Endocrinologist,West,709,19625,59,Tier 2 - Medium Value
+HCP0504,General Physician,West,439,19625,142,Tier 2 - Medium Value
+HCP0343,Cardiologist,Southeast,188,19275,58,Tier 2 - Medium Value
+HCP0166,General Physician,West,332,19065,63,Tier 2 - Medium Value
+HCP0114,General Physician,West,1037,19045,89,Tier 2 - Medium Value
+HCP0131,Oncologist,Southeast,777,18985,108,Tier 2 - Medium Value
+HCP0089,Neurologist,Northwest,1136,18870,109,Tier 2 - Medium Value
+HCP0074,Oncologist,Northeast,751,18865,116,Tier 2 - Medium Value
+HCP0495,Pulmonologist,Northeast,1148,18855,123,Tier 2 - Medium Value
+HCP0087,Endocrinologist,Northeast,1029,18720,130,Tier 2 - Medium Value
+HCP0118,General Physician,Southwest,526,18675,64,Tier 2 - Medium Value
+HCP0463,Endocrinologist,Midwest,1100,18660,131,Tier 2 - Medium Value
+HCP0393,Neurologist,Northeast,1121,18645,68,Tier 2 - Medium Value
+HCP0075,General Physician,Southeast,645,18605,103,Tier 2 - Medium Value
+HCP0356,General Physician,Northeast,706,18575,82,Tier 2 - Medium Value
+HCP0397,Pulmonologist,Midwest,386,18525,83,Tier 2 - Medium Value
+HCP0021,Oncologist,Southwest,90,18490,80,Tier 2 - Medium Value
+HCP0341,General Physician,Southwest,1184,18455,91,Tier 2 - Medium Value
+HCP0207,General Physician,Northeast,651,18395,49,Tier 2 - Medium Value
+HCP0666,Endocrinologist,West,843,18385,99,Tier 2 - Medium Value
+HCP0027,General Physician,Northeast,328,18320,140,Tier 2 - Medium Value
+HCP0562,Neurologist,West,825,18320,108,Tier 2 - Medium Value
+HCP0299,Neurologist,Northwest,960,18290,100,Tier 2 - Medium Value
+HCP0798,Neurologist,Northwest,602,18255,72,Tier 2 - Medium Value
+HCP0205,Endocrinologist,Northeast,1182,18185,79,Tier 2 - Medium Value
+HCP0421,General Physician,Midwest,843,18170,75,Tier 2 - Medium Value
+HCP0719,Oncologist,Northeast,527,18150,76,Tier 2 - Medium Value
+HCP0395,Cardiologist,Southwest,165,18140,55,Tier 2 - Medium Value
+HCP0624,General Physician,Northeast,1118,18105,75,Tier 2 - Medium Value
+HCP0377,General Physician,West,1072,18090,102,Tier 2 - Medium Value
+HCP0615,General Physician,West,672,18020,112,Tier 2 - Medium Value
+HCP0599,Endocrinologist,Southwest,514,18015,45,Tier 2 - Medium Value
+HCP0303,General Physician,Northwest,171,18005,55,Tier 2 - Medium Value
+HCP0743,General Physician,Southeast,789,17995,99,Tier 2 - Medium Value
+HCP0097,Pulmonologist,Southwest,1193,17990,97,Tier 2 - Medium Value
+HCP0376,Cardiologist,Northeast,631,17985,93,Tier 2 - Medium Value
+HCP0772,General Physician,Northeast,782,17950,101,Tier 2 - Medium Value
+HCP0412,Cardiologist,Northeast,955,17900,107,Tier 2 - Medium Value
+HCP0610,Neurologist,Northwest,769,17710,103,Tier 2 - Medium Value
+HCP0435,General Physician,Northeast,596,17665,35,Tier 2 - Medium Value
+HCP0721,General Physician,Northeast,882,17665,65,Tier 2 - Medium Value
+HCP0199,Neurologist,Southwest,176,17610,54,Tier 2 - Medium Value
+HCP0233,Endocrinologist,Southwest,959,17555,70,Tier 2 - Medium Value
+HCP0295,Pulmonologist,Northeast,412,17555,101,Tier 2 - Medium Value
+HCP0072,Neurologist,Northwest,550,17485,66,Tier 2 - Medium Value
+HCP0690,Cardiologist,Southwest,382,17435,61,Tier 2 - Medium Value
+HCP0174,Pulmonologist,Northeast,702,17430,63,Tier 2 - Medium Value
+HCP0036,Cardiologist,Southwest,942,17390,75,Tier 2 - Medium Value
+HCP0630,Cardiologist,Northeast,206,17270,60,Tier 2 - Medium Value
+HCP0713,General Physician,Southeast,897,17190,118,Tier 2 - Medium Value
+HCP0373,General Physician,Southwest,669,17160,53,Tier 2 - Medium Value
+HCP0013,Cardiologist,Northeast,1031,17115,65,Tier 2 - Medium Value
+HCP0386,General Physician,Southwest,1023,17040,119,Tier 2 - Medium Value
+HCP0104,Cardiologist,Southeast,369,17020,68,Tier 2 - Medium Value
+HCP0026,Cardiologist,Midwest,1002,17005,95,Tier 2 - Medium Value
+HCP0436,Pulmonologist,Southwest,243,16915,84,Tier 2 - Medium Value
+HCP0163,Oncologist,West,829,16895,74,Tier 2 - Medium Value
+HCP0282,Pulmonologist,West,444,16890,54,Tier 2 - Medium Value
+HCP0360,Cardiologist,Southeast,1164,16805,110,Tier 2 - Medium Value
+HCP0387,Pulmonologist,Northeast,131,16800,45,Tier 2 - Medium Value
+HCP0626,Oncologist,Northwest,693,16780,75,Tier 2 - Medium Value
+HCP0589,General Physician,Northwest,66,16755,56,Tier 2 - Medium Value
+HCP0342,Oncologist,Northwest,915,16740,105,Tier 2 - Medium Value
+HCP0181,General Physician,Northeast,941,16660,95,Tier 2 - Medium Value
+HCP0606,Endocrinologist,Southeast,104,16650,36,Tier 2 - Medium Value
+HCP0201,General Physician,Midwest,68,16585,78,Tier 2 - Medium Value
+HCP0613,Oncologist,Northeast,533,16560,31,Tier 2 - Medium Value
+HCP0370,Cardiologist,Midwest,932,16550,96,Tier 2 - Medium Value
+HCP0250,General Physician,West,1035,16490,100,Tier 2 - Medium Value
+HCP0372,Cardiologist,Northwest,715,16345,71,Tier 2 - Medium Value
+HCP0378,Oncologist,Northwest,744,16260,69,Tier 2 - Medium Value
+HCP0400,General Physician,Northwest,889,16245,105,Tier 2 - Medium Value
+HCP0291,Pulmonologist,West,975,16230,125,Tier 2 - Medium Value
+HCP0111,Endocrinologist,Northeast,271,16190,42,Tier 2 - Medium Value
+HCP0648,Neurologist,Southeast,75,16155,74,Tier 2 - Medium Value
+HCP0407,General Physician,West,769,16135,107,Tier 2 - Medium Value
+HCP0251,Pulmonologist,Southwest,623,16085,57,Tier 2 - Medium Value
+HCP0502,Oncologist,Southwest,1161,16060,105,Tier 2 - Medium Value
+HCP0296,Oncologist,West,497,16040,68,Tier 2 - Medium Value
+HCP0103,Endocrinologist,Southwest,314,16035,39,Tier 2 - Medium Value
+HCP0246,Neurologist,Northeast,1154,16015,120,Tier 2 - Medium Value
+HCP0312,General Physician,Southwest,418,15965,40,Tier 2 - Medium Value
+HCP0274,Neurologist,Northwest,982,15950,81,Tier 2 - Medium Value
+HCP0222,Neurologist,Southeast,461,15900,56,Tier 2 - Medium Value
+HCP0577,Oncologist,Southwest,103,15890,31,Tier 2 - Medium Value
+HCP0044,Endocrinologist,Midwest,503,15875,57,Tier 2 - Medium Value
+HCP0043,General Physician,Southwest,1120,15870,97,Tier 2 - Medium Value
+HCP0450,Cardiologist,Midwest,985,15840,78,Tier 2 - Medium Value
+HCP0683,Neurologist,Southeast,52,15765,36,Tier 2 - Medium Value
+HCP0411,General Physician,Southwest,732,15760,53,Tier 2 - Medium Value
+HCP0528,Endocrinologist,Southwest,955,15760,77,Tier 2 - Medium Value
+HCP0516,Neurologist,Southeast,190,15735,80,Tier 2 - Medium Value
+HCP0327,Neurologist,Northwest,996,15725,102,Tier 2 - Medium Value
+HCP0186,Endocrinologist,Northeast,367,15705,61,Tier 2 - Medium Value
+HCP0159,Oncologist,Southwest,1000,15680,93,Tier 2 - Medium Value
+HCP0530,General Physician,West,72,15660,67,Tier 2 - Medium Value
+HCP0732,General Physician,West,220,15620,82,Tier 2 - Medium Value
+HCP0236,Cardiologist,Southeast,1191,15545,80,Tier 2 - Medium Value
+HCP0037,Pulmonologist,Northwest,321,15520,49,Tier 2 - Medium Value
+HCP0474,Neurologist,Southeast,1096,15480,82,Tier 2 - Medium Value
+HCP0024,General Physician,Southwest,387,15465,50,Tier 2 - Medium Value
+HCP0147,Pulmonologist,Southwest,582,15450,88,Tier 2 - Medium Value
+HCP0384,Oncologist,Midwest,810,15420,76,Tier 2 - Medium Value
+HCP0520,Pulmonologist,Southeast,673,15410,55,Tier 2 - Medium Value
+HCP0177,General Physician,Southwest,98,15375,67,Tier 2 - Medium Value
+HCP0438,Oncologist,West,1177,15340,117,Tier 2 - Medium Value
+HCP0002,Cardiologist,Midwest,979,15335,88,Tier 2 - Medium Value
+HCP0499,Cardiologist,Southeast,1169,15315,67,Tier 2 - Medium Value
+HCP0741,General Physician,Southeast,398,15295,86,Tier 2 - Medium Value
+HCP0015,Cardiologist,Southeast,525,15280,67,Tier 2 - Medium Value
+HCP0248,Cardiologist,Midwest,468,15270,80,Tier 2 - Medium Value
+HCP0170,Endocrinologist,Midwest,802,15145,54,Tier 2 - Medium Value
+HCP0253,Endocrinologist,Midwest,272,15140,72,Tier 2 - Medium Value
+HCP0130,Oncologist,Northeast,531,15120,86,Tier 2 - Medium Value
+HCP0314,General Physician,Northeast,126,15115,75,Tier 2 - Medium Value
+HCP0489,Pulmonologist,Northeast,309,15070,66,Tier 2 - Medium Value
+HCP0180,Cardiologist,Northeast,453,15060,47,Tier 2 - Medium Value
+HCP0679,Neurologist,Southeast,495,15040,67,Tier 2 - Medium Value
+HCP0749,General Physician,Midwest,376,15015,44,Tier 2 - Medium Value
+HCP0348,General Physician,Northeast,1172,15010,121,Tier 2 - Medium Value
+HCP0388,Neurologist,Midwest,653,14995,91,Tier 2 - Medium Value
+HCP0194,Pulmonologist,Northwest,232,14915,66,Tier 2 - Medium Value
+HCP0734,Pulmonologist,Southeast,921,14885,76,Tier 2 - Medium Value
+HCP0101,General Physician,Northwest,514,14835,56,Tier 2 - Medium Value
+HCP0508,Oncologist,Southwest,717,14835,66,Tier 2 - Medium Value
+HCP0780,Cardiologist,Southeast,331,14785,45,Tier 2 - Medium Value
+HCP0640,Cardiologist,Northwest,657,14735,76,Tier 2 - Medium Value
+HCP0281,Pulmonologist,Northwest,175,14710,59,Tier 2 - Medium Value
+HCP0785,Pulmonologist,Northeast,376,14705,40,Tier 2 - Medium Value
+HCP0659,General Physician,Midwest,613,14680,47,Tier 2 - Medium Value
+HCP0557,Endocrinologist,Southeast,378,14670,62,Tier 2 - Medium Value
+HCP0382,General Physician,Northeast,764,14655,64,Tier 2 - Medium Value
+HCP0040,General Physician,Southeast,985,14625,66,Tier 2 - Medium Value
+HCP0625,Endocrinologist,Northwest,1132,14605,104,Tier 2 - Medium Value
+HCP0154,Pulmonologist,Midwest,125,14585,40,Tier 2 - Medium Value
+HCP0330,Oncologist,Southwest,811,14585,68,Tier 2 - Medium Value
+HCP0458,General Physician,Southwest,557,14575,80,Tier 2 - Medium Value
+HCP0627,Neurologist,Northwest,665,14545,32,Tier 2 - Medium Value
+HCP0189,Oncologist,Southeast,282,14355,43,Tier 2 - Medium Value
+HCP0420,Pulmonologist,Southeast,313,14320,44,Tier 2 - Medium Value
+HCP0521,Endocrinologist,Southwest,740,14300,66,Tier 2 - Medium Value
+HCP0267,General Physician,Southeast,409,14295,52,Tier 2 - Medium Value
+HCP0054,General Physician,West,192,14285,77,Tier 2 - Medium Value
+HCP0059,Cardiologist,West,600,14225,120,Tier 2 - Medium Value
+HCP0244,General Physician,Midwest,345,14220,49,Tier 2 - Medium Value
+HCP0389,General Physician,Northeast,821,14220,64,Tier 2 - Medium Value
+HCP0653,General Physician,Southeast,505,14215,79,Tier 2 - Medium Value
+HCP0213,Pulmonologist,Northeast,1054,14205,92,Tier 2 - Medium Value
+HCP0237,Neurologist,Midwest,762,14205,82,Tier 2 - Medium Value
+HCP0409,General Physician,West,529,14200,86,Tier 2 - Medium Value
+HCP0152,Oncologist,Northeast,589,14170,56,Tier 2 - Medium Value
+HCP0714,General Physician,Midwest,499,14160,37,Tier 2 - Medium Value
+HCP0156,Pulmonologist,Southeast,903,14140,71,Tier 2 - Medium Value
+HCP0566,General Physician,West,375,14135,62,Tier 2 - Medium Value
+HCP0007,Endocrinologist,Southeast,314,14100,62,Tier 2 - Medium Value
+HCP0638,Oncologist,Northeast,442,14085,54,Tier 2 - Medium Value
+HCP0385,Cardiologist,West,548,14070,65,Tier 2 - Medium Value
+HCP0311,Oncologist,Northeast,250,14015,34,Tier 2 - Medium Value
+HCP0443,General Physician,Midwest,959,14005,115,Tier 2 - Medium Value
+HCP0580,Cardiologist,West,102,14000,36,Tier 2 - Medium Value
+HCP0065,Neurologist,Northeast,268,13965,55,Tier 2 - Medium Value
+HCP0651,General Physician,Southeast,316,13900,54,Tier 2 - Medium Value
+HCP0652,General Physician,Southeast,510,13895,89,Tier 2 - Medium Value
+HCP0619,Pulmonologist,Northwest,380,13875,49,Tier 2 - Medium Value
+HCP0317,Pulmonologist,West,687,13795,99,Tier 2 - Medium Value
+HCP0052,General Physician,Northeast,565,13750,52,Tier 2 - Medium Value
+HCP0325,General Physician,West,870,13725,112,Tier 2 - Medium Value
+HCP0706,Cardiologist,Midwest,203,13695,70,Tier 2 - Medium Value
+HCP0324,General Physician,Midwest,414,13575,57,Tier 2 - Medium Value
+HCP0091,Endocrinologist,Midwest,812,13550,56,Tier 2 - Medium Value
+HCP0297,Pulmonologist,Southwest,311,13545,52,Tier 2 - Medium Value
+HCP0695,General Physician,Midwest,609,13510,98,Tier 2 - Medium Value
+HCP0470,General Physician,Midwest,775,13460,66,Tier 2 - Medium Value
+HCP0756,General Physician,Southeast,734,13460,67,Tier 2 - Medium Value
+HCP0123,Pulmonologist,Southeast,1108,13455,77,Tier 2 - Medium Value
+HCP0609,Neurologist,Northwest,61,13410,102,Tier 2 - Medium Value
+HCP0308,Cardiologist,Northwest,1160,13390,40,Tier 2 - Medium Value
+HCP0238,Neurologist,Southwest,820,13360,74,Tier 2 - Medium Value
+HCP0574,Endocrinologist,Southeast,276,13350,26,Tier 2 - Medium Value
+HCP0618,Endocrinologist,Midwest,209,13325,90,Tier 2 - Medium Value
+HCP0270,Cardiologist,Southeast,721,13275,75,Tier 2 - Medium Value
+HCP0047,Endocrinologist,West,50,13210,74,Tier 2 - Medium Value
+HCP0617,Endocrinologist,Northeast,506,13190,48,Tier 2 - Medium Value
+HCP0525,Endocrinologist,Southwest,978,13045,91,Tier 2 - Medium Value
+HCP0265,Endocrinologist,Northeast,1136,13035,99,Tier 2 - Medium Value
+HCP0326,General Physician,Northwest,392,13000,44,Tier 2 - Medium Value
+HCP0680,Endocrinologist,Midwest,259,13000,63,Tier 2 - Medium Value
+HCP0657,Endocrinologist,Southwest,540,12995,81,Tier 2 - Medium Value
+HCP0349,Pulmonologist,Northeast,153,12975,44,Tier 2 - Medium Value
+HCP0485,General Physician,West,896,12965,102,Tier 2 - Medium Value
+HCP0455,Endocrinologist,Southeast,1086,12945,115,Tier 2 - Medium Value
+HCP0737,Endocrinologist,Northeast,993,12925,114,Tier 2 - Medium Value
+HCP0644,Endocrinologist,Southeast,327,12835,29,Tier 2 - Medium Value
+HCP0107,Cardiologist,Northwest,138,12700,58,Tier 2 - Medium Value
+HCP0310,Cardiologist,Northeast,835,12695,56,Tier 2 - Medium Value
+HCP0175,Endocrinologist,Southeast,750,12670,74,Tier 2 - Medium Value
+HCP0241,General Physician,West,716,12665,65,Tier 2 - Medium Value
+HCP0066,Neurologist,Southeast,456,12655,62,Tier 2 - Medium Value
+HCP0136,Pulmonologist,Northwest,381,12645,34,Tier 2 - Medium Value
+HCP0554,General Physician,Southeast,80,12615,28,Tier 2 - Medium Value
+HCP0402,Endocrinologist,Southwest,492,12600,53,Tier 2 - Medium Value
+HCP0318,Pulmonologist,West,158,12550,39,Tier 2 - Medium Value
+HCP0745,Cardiologist,West,595,12550,67,Tier 2 - Medium Value
+HCP0214,General Physician,Southwest,480,12490,66,Tier 2 - Medium Value
+HCP0471,General Physician,Northwest,80,12485,56,Tier 2 - Medium Value
+HCP0176,General Physician,Southeast,1047,12425,66,Tier 2 - Medium Value
+HCP0132,General Physician,Southwest,529,12370,65,Tier 2 - Medium Value
+HCP0735,General Physician,Northeast,371,12310,89,Tier 2 - Medium Value
+HCP0211,Neurologist,Midwest,908,12250,71,Tier 2 - Medium Value
+HCP0125,Endocrinologist,Southwest,543,12225,65,Tier 2 - Medium Value
+HCP0184,General Physician,Midwest,390,12205,43,Tier 2 - Medium Value
+HCP0279,Neurologist,Midwest,963,12180,98,Tier 2 - Medium Value
+HCP0576,Cardiologist,Midwest,167,12175,41,Tier 2 - Medium Value
+HCP0522,Cardiologist,West,450,12130,68,Tier 2 - Medium Value
+HCP0452,Oncologist,Northwest,211,12110,34,Tier 2 - Medium Value
+HCP0081,Cardiologist,Midwest,663,12060,67,Tier 2 - Medium Value
+HCP0234,Pulmonologist,Northeast,259,12055,61,Tier 2 - Medium Value
+HCP0350,Pulmonologist,Southeast,811,12055,105,Tier 2 - Medium Value
+HCP0555,General Physician,West,947,12030,33,Tier 2 - Medium Value
+HCP0187,Oncologist,Midwest,667,11965,65,Tier 2 - Medium Value
+HCP0426,Neurologist,Midwest,1138,11965,89,Tier 2 - Medium Value
+HCP0509,Pulmonologist,West,682,11965,66,Tier 2 - Medium Value
+HCP0512,Cardiologist,Northeast,477,11900,58,Tier 2 - Medium Value
+HCP0556,Endocrinologist,Northwest,698,11880,39,Tier 2 - Medium Value
+HCP0042,Neurologist,Northeast,205,11790,31,Tier 2 - Medium Value
+HCP0612,Cardiologist,Southwest,422,11790,75,Tier 2 - Medium Value
+HCP0224,Endocrinologist,Southwest,1157,11775,99,Tier 2 - Medium Value
+HCP0305,Cardiologist,Southeast,219,11730,50,Tier 2 - Medium Value
+HCP0041,Endocrinologist,Southeast,297,11725,68,Tier 2 - Medium Value
+HCP0268,Cardiologist,West,1148,11660,54,Tier 2 - Medium Value
+HCP0019,Cardiologist,Midwest,1030,11610,100,Tier 2 - Medium Value
+HCP0102,Oncologist,Southeast,335,11595,60,Tier 2 - Medium Value
+HCP0196,Pulmonologist,Southeast,446,11595,44,Tier 2 - Medium Value
+HCP0715,Pulmonologist,Midwest,979,11560,77,Tier 2 - Medium Value
+HCP0390,Cardiologist,Southeast,952,11555,54,Tier 2 - Medium Value
+HCP0517,General Physician,Southeast,1156,11450,81,Tier 3 - Low Value
+HCP0333,Neurologist,West,432,11425,63,Tier 3 - Low Value
+HCP0381,General Physician,Midwest,448,11375,46,Tier 3 - Low Value
+HCP0195,Cardiologist,Northwest,1114,11265,134,Tier 3 - Low Value
+HCP0138,Endocrinologist,West,223,11240,90,Tier 3 - Low Value
+HCP0022,General Physician,Northwest,356,11190,56,Tier 3 - Low Value
+HCP0332,General Physician,Northeast,991,11185,72,Tier 3 - Low Value
+HCP0122,General Physician,Midwest,317,11100,86,Tier 3 - Low Value
+HCP0160,Endocrinologist,Northeast,1160,11075,95,Tier 3 - Low Value
+HCP0126,Cardiologist,Northeast,710,11070,51,Tier 3 - Low Value
+HCP0595,Pulmonologist,Northeast,907,11060,85,Tier 3 - Low Value
+HCP0703,General Physician,Southeast,360,11030,63,Tier 3 - Low Value
+HCP0157,Pulmonologist,Northwest,243,11010,39,Tier 3 - Low Value
+HCP0309,Pulmonologist,Southwest,695,10925,56,Tier 3 - Low Value
+HCP0642,Oncologist,Southwest,483,10875,30,Tier 3 - Low Value
+HCP0221,Cardiologist,Midwest,534,10835,108,Tier 3 - Low Value
+HCP0728,Neurologist,West,1117,10830,92,Tier 3 - Low Value
+HCP0113,Oncologist,Southeast,117,10820,28,Tier 3 - Low Value
+HCP0480,Pulmonologist,Southwest,1087,10815,158,Tier 3 - Low Value
+HCP0328,Oncologist,Midwest,948,10685,74,Tier 3 - Low Value
+HCP0456,Pulmonologist,Northwest,233,10680,66,Tier 3 - Low Value
+HCP0497,Endocrinologist,Southeast,1040,10625,75,Tier 3 - Low Value
+HCP0437,Neurologist,Southeast,752,10560,67,Tier 3 - Low Value
+HCP0422,Cardiologist,Southwest,162,10550,37,Tier 3 - Low Value
+HCP0799,Neurologist,Northwest,161,10540,36,Tier 3 - Low Value
+HCP0796,General Physician,Southeast,1182,10530,63,Tier 3 - Low Value
+HCP0418,Neurologist,Southeast,106,10505,49,Tier 3 - Low Value
+HCP0757,Cardiologist,Southwest,165,10460,30,Tier 3 - Low Value
+HCP0028,General Physician,West,945,10450,83,Tier 3 - Low Value
+HCP0564,Cardiologist,West,1076,10405,72,Tier 3 - Low Value
+HCP0790,Endocrinologist,Southwest,181,10340,88,Tier 3 - Low Value
+HCP0762,Oncologist,Northwest,373,10300,36,Tier 3 - Low Value
+HCP0531,Neurologist,Southeast,284,10245,49,Tier 3 - Low Value
+HCP0551,General Physician,Midwest,790,10190,29,Tier 3 - Low Value
+HCP0493,Cardiologist,Southeast,899,10185,100,Tier 3 - Low Value
+HCP0513,General Physician,Northwest,661,10180,48,Tier 3 - Low Value
+HCP0346,Oncologist,Northeast,558,10145,78,Tier 3 - Low Value
+HCP0795,Cardiologist,Midwest,677,10000,80,Tier 3 - Low Value
+HCP0787,General Physician,Southeast,601,9975,65,Tier 3 - Low Value
+HCP0029,Pulmonologist,Southeast,322,9950,37,Tier 3 - Low Value
+HCP0686,Cardiologist,Southeast,569,9940,60,Tier 3 - Low Value
+HCP0792,Cardiologist,West,923,9935,123,Tier 3 - Low Value
+HCP0550,General Physician,Southwest,259,9910,44,Tier 3 - Low Value
+HCP0432,Pulmonologist,Southwest,237,9865,30,Tier 3 - Low Value
+HCP0359,Neurologist,West,113,9800,44,Tier 3 - Low Value
+HCP0120,Endocrinologist,Northeast,930,9785,68,Tier 3 - Low Value
+HCP0650,Oncologist,Southeast,556,9745,65,Tier 3 - Low Value
+HCP0661,General Physician,Northeast,265,9710,54,Tier 3 - Low Value
+HCP0672,Oncologist,Midwest,471,9595,24,Tier 3 - Low Value
+HCP0588,Pulmonologist,Northeast,663,9565,48,Tier 3 - Low Value
+HCP0368,Pulmonologist,Northwest,607,9525,63,Tier 3 - Low Value
+HCP0202,Pulmonologist,Midwest,633,9520,31,Tier 3 - Low Value
+HCP0736,General Physician,Midwest,505,9445,60,Tier 3 - Low Value
+HCP0607,General Physician,Northwest,568,9385,118,Tier 3 - Low Value
+HCP0355,General Physician,Northwest,566,9370,43,Tier 3 - Low Value
+HCP0292,Cardiologist,Northeast,492,9285,55,Tier 3 - Low Value
+HCP0259,Endocrinologist,West,424,9280,55,Tier 3 - Low Value
+HCP0365,Cardiologist,Midwest,525,9250,94,Tier 3 - Low Value
+HCP0645,Pulmonologist,Northwest,282,9220,56,Tier 3 - Low Value
+HCP0687,General Physician,Northwest,542,9180,60,Tier 3 - Low Value
+HCP0476,General Physician,Southeast,1147,9170,103,Tier 3 - Low Value
+HCP0439,General Physician,Midwest,851,9135,83,Tier 3 - Low Value
+HCP0226,Cardiologist,Southeast,381,9120,43,Tier 3 - Low Value
+HCP0219,Cardiologist,Northeast,469,9110,70,Tier 3 - Low Value
+HCP0269,Cardiologist,Northwest,609,9080,62,Tier 3 - Low Value
+HCP0593,Oncologist,Northeast,458,9050,71,Tier 3 - Low Value
+HCP0082,Pulmonologist,Northeast,711,9035,72,Tier 3 - Low Value
+HCP0773,Oncologist,Northwest,758,9025,105,Tier 3 - Low Value
+HCP0110,Pulmonologist,Southwest,383,9010,39,Tier 3 - Low Value
+HCP0694,General Physician,Southeast,629,8980,44,Tier 3 - Low Value
+HCP0391,Neurologist,West,414,8930,32,Tier 3 - Low Value
+HCP0153,General Physician,Midwest,821,8925,93,Tier 3 - Low Value
+HCP0424,General Physician,Northeast,696,8870,82,Tier 3 - Low Value
+HCP0252,Neurologist,Southeast,98,8855,22,Tier 3 - Low Value
+HCP0698,Endocrinologist,Southwest,495,8795,39,Tier 3 - Low Value
+HCP0266,Oncologist,Southwest,72,8620,33,Tier 3 - Low Value
+HCP0569,Neurologist,Northeast,537,8555,79,Tier 3 - Low Value
+HCP0676,Neurologist,Northwest,326,8515,59,Tier 3 - Low Value
+HCP0505,Oncologist,Midwest,374,8510,36,Tier 3 - Low Value
+HCP0062,General Physician,Southwest,259,8345,18,Tier 3 - Low Value
+HCP0524,Cardiologist,Midwest,267,8235,15,Tier 3 - Low Value
+HCP0434,General Physician,Southwest,306,8220,37,Tier 3 - Low Value
+HCP0586,Cardiologist,Northwest,436,8195,70,Tier 3 - Low Value
+HCP0363,General Physician,Midwest,295,8190,70,Tier 3 - Low Value
+HCP0249,General Physician,West,284,8180,25,Tier 3 - Low Value
+HCP0168,Pulmonologist,Northeast,490,8085,56,Tier 3 - Low Value
+HCP0561,Oncologist,Northeast,211,8070,26,Tier 3 - Low Value
+HCP0230,Cardiologist,Northwest,154,8055,34,Tier 3 - Low Value
+HCP0171,General Physician,Southwest,916,8035,53,Tier 3 - Low Value
+HCP0491,Neurologist,Northwest,825,7980,44,Tier 3 - Low Value
+HCP0242,Neurologist,Midwest,678,7965,54,Tier 3 - Low Value
+HCP0083,Neurologist,Northwest,132,7915,70,Tier 3 - Low Value
+HCP0529,Oncologist,Midwest,224,7870,42,Tier 3 - Low Value
+HCP0334,General Physician,West,1053,7855,95,Tier 3 - Low Value
+HCP0800,Neurologist,Southeast,664,7830,37,Tier 3 - Low Value
+HCP0753,Oncologist,West,767,7820,94,Tier 3 - Low Value
+HCP0162,General Physician,West,622,7805,70,Tier 3 - Low Value
+HCP0155,General Physician,Northwest,628,7790,76,Tier 3 - Low Value
+HCP0357,General Physician,Northeast,662,7780,42,Tier 3 - Low Value
+HCP0783,General Physician,Midwest,749,7780,82,Tier 3 - Low Value
+HCP0039,Neurologist,Northwest,532,7765,52,Tier 3 - Low Value
+HCP0352,Endocrinologist,Northwest,214,7750,90,Tier 3 - Low Value
+HCP0056,General Physician,Southeast,276,7725,52,Tier 3 - Low Value
+HCP0523,Cardiologist,Northeast,520,7715,23,Tier 3 - Low Value
+HCP0726,Endocrinologist,West,142,7705,39,Tier 3 - Low Value
+HCP0770,Neurologist,Northwest,403,7705,104,Tier 3 - Low Value
+HCP0585,Neurologist,Northeast,724,7675,68,Tier 3 - Low Value
+HCP0379,Oncologist,Southwest,1175,7665,89,Tier 3 - Low Value
+HCP0068,Cardiologist,West,607,7640,31,Tier 3 - Low Value
+HCP0755,Oncologist,Southwest,323,7450,41,Tier 3 - Low Value
+HCP0206,General Physician,Southeast,494,7410,17,Tier 3 - Low Value
+HCP0264,Neurologist,Southeast,1114,7280,93,Tier 3 - Low Value
+HCP0185,General Physician,Southeast,753,7255,44,Tier 3 - Low Value
+HCP0538,Endocrinologist,Northeast,582,7250,33,Tier 3 - Low Value
+HCP0061,Neurologist,Southwest,894,7235,42,Tier 3 - Low Value
+HCP0149,Endocrinologist,Midwest,228,7190,59,Tier 3 - Low Value
+HCP0552,Cardiologist,Midwest,446,7190,89,Tier 3 - Low Value
+HCP0060,Endocrinologist,West,442,7180,54,Tier 3 - Low Value
+HCP0288,Pulmonologist,Southwest,882,7080,31,Tier 3 - Low Value
+HCP0079,Oncologist,Northeast,319,7055,34,Tier 3 - Low Value
+HCP0647,Pulmonologist,Northwest,411,7015,44,Tier 3 - Low Value
+HCP0510,General Physician,Southwest,626,7005,63,Tier 3 - Low Value
+HCP0689,Oncologist,West,380,7000,84,Tier 3 - Low Value
+HCP0628,Neurologist,West,244,6980,40,Tier 3 - Low Value
+HCP0663,General Physician,Northeast,208,6880,42,Tier 3 - Low Value
+HCP0137,Cardiologist,Southeast,487,6860,21,Tier 3 - Low Value
+HCP0578,Endocrinologist,West,614,6815,31,Tier 3 - Low Value
+HCP0483,Pulmonologist,West,102,6800,10,Tier 3 - Low Value
+HCP0784,Neurologist,Northeast,248,6765,18,Tier 3 - Low Value
+HCP0150,General Physician,Midwest,181,6740,27,Tier 3 - Low Value
+HCP0167,Neurologist,Midwest,411,6710,55,Tier 3 - Low Value
+HCP0519,Oncologist,Northwest,247,6685,29,Tier 3 - Low Value
+HCP0010,General Physician,Northwest,992,6665,69,Tier 3 - Low Value
+HCP0070,General Physician,West,191,6655,77,Tier 3 - Low Value
+HCP0733,Pulmonologist,West,219,6635,35,Tier 3 - Low Value
+HCP0764,General Physician,West,163,6590,52,Tier 3 - Low Value
+HCP0487,General Physician,West,1103,6515,108,Tier 3 - Low Value
+HCP0428,Endocrinologist,Northeast,50,6485,48,Tier 3 - Low Value
+HCP0451,Cardiologist,Southwest,424,6455,42,Tier 3 - Low Value
+HCP0088,Cardiologist,Northeast,222,6430,42,Tier 3 - Low Value
+HCP0730,Cardiologist,West,470,6390,85,Tier 3 - Low Value
+HCP0401,Oncologist,Midwest,196,6375,26,Tier 3 - Low Value
+HCP0018,Oncologist,Northeast,239,6365,42,Tier 3 - Low Value
+HCP0009,General Physician,Midwest,260,6310,42,Tier 3 - Low Value
+HCP0164,General Physician,Midwest,311,6265,27,Tier 3 - Low Value
+HCP0172,Endocrinologist,Midwest,191,6240,13,Tier 3 - Low Value
+HCP0331,General Physician,Southeast,390,6205,55,Tier 3 - Low Value
+HCP0425,General Physician,Northwest,628,6130,85,Tier 3 - Low Value
+HCP0670,Oncologist,West,297,6060,73,Tier 3 - Low Value
+HCP0490,General Physician,West,1132,5940,78,Tier 3 - Low Value
+HCP0479,Pulmonologist,Northwest,209,5930,37,Tier 3 - Low Value
+HCP0475,Cardiologist,Northeast,593,5885,38,Tier 3 - Low Value
+HCP0145,Endocrinologist,Midwest,455,5880,37,Tier 3 - Low Value
+HCP0747,General Physician,Southeast,650,5840,29,Tier 3 - Low Value
+HCP0179,Oncologist,Northeast,604,5835,41,Tier 3 - Low Value
+HCP0302,General Physician,Southwest,534,5800,50,Tier 3 - Low Value
+HCP0744,Neurologist,Southeast,716,5660,37,Tier 3 - Low Value
+HCP0298,Neurologist,Northeast,174,5645,29,Tier 3 - Low Value
+HCP0717,Neurologist,Southwest,411,5610,76,Tier 3 - Low Value
+HCP0245,Endocrinologist,Southeast,307,5550,30,Tier 3 - Low Value
+HCP0161,Endocrinologist,Southeast,263,5520,72,Tier 3 - Low Value
+HCP0591,Cardiologist,West,590,5515,75,Tier 3 - Low Value
+HCP0115,Cardiologist,Southwest,563,5505,35,Tier 3 - Low Value
+HCP0544,Neurologist,Southwest,589,5450,72,Tier 3 - Low Value
+HCP0117,Cardiologist,Northwest,1089,5410,53,Tier 3 - Low Value
+HCP0778,Endocrinologist,Northeast,148,5315,57,Tier 3 - Low Value
+HCP0494,General Physician,Northwest,403,5300,32,Tier 3 - Low Value
+HCP0183,General Physician,Southwest,651,5295,76,Tier 3 - Low Value
+HCP0731,General Physician,Northwest,123,5250,18,Tier 3 - Low Value
+HCP0276,Neurologist,Southwest,470,5240,29,Tier 3 - Low Value
+HCP0243,Oncologist,Southeast,436,5160,47,Tier 3 - Low Value
+HCP0693,Neurologist,Midwest,321,5050,36,Tier 3 - Low Value
+HCP0023,Pulmonologist,Northeast,992,5040,66,Tier 3 - Low Value
+HCP0419,Pulmonologist,Midwest,68,5005,17,Tier 3 - Low Value
+HCP0629,Endocrinologist,West,538,4980,58,Tier 3 - Low Value
+HCP0605,Endocrinologist,Southwest,82,4975,27,Tier 3 - Low Value
+HCP0701,Pulmonologist,Midwest,323,4945,29,Tier 3 - Low Value
+HCP0536,Endocrinologist,Midwest,480,4885,58,Tier 3 - Low Value
+HCP0148,Pulmonologist,Southwest,554,4835,57,Tier 3 - Low Value
+HCP0046,Endocrinologist,Midwest,173,4825,19,Tier 3 - Low Value
+HCP0073,General Physician,West,889,4815,74,Tier 3 - Low Value
+HCP0406,Cardiologist,Southwest,336,4810,6,Tier 3 - Low Value
+HCP0727,Pulmonologist,Southwest,135,4790,32,Tier 3 - Low Value
+HCP0611,General Physician,Midwest,604,4735,36,Tier 3 - Low Value
+HCP0781,Neurologist,Northwest,452,4680,24,Tier 3 - Low Value
+HCP0602,Endocrinologist,Midwest,224,4655,58,Tier 3 - Low Value
+HCP0786,Cardiologist,West,203,4565,14,Tier 3 - Low Value
+HCP0347,General Physician,Southeast,322,4510,48,Tier 3 - Low Value
+HCP0636,Neurologist,Northeast,565,4505,22,Tier 3 - Low Value
+HCP0691,General Physician,Northeast,99,4490,31,Tier 3 - Low Value
+HCP0729,Pulmonologist,West,186,4460,14,Tier 3 - Low Value
+HCP0481,Oncologist,Southwest,461,4305,49,Tier 3 - Low Value
+HCP0771,Neurologist,Southwest,1065,4290,43,Tier 3 - Low Value
+HCP0560,Pulmonologist,Northeast,670,4245,62,Tier 3 - Low Value
+HCP0293,Pulmonologist,Southeast,124,4230,19,Tier 3 - Low Value
+HCP0112,Pulmonologist,Northwest,90,4215,20,Tier 3 - Low Value
+HCP0712,Endocrinologist,West,294,4200,20,Tier 3 - Low Value
+HCP0336,Cardiologist,West,188,4095,21,Tier 3 - Low Value
+HCP0767,Neurologist,Southeast,364,3955,58,Tier 3 - Low Value
+HCP0080,Endocrinologist,Southeast,203,3945,28,Tier 3 - Low Value
+HCP0146,Neurologist,Southeast,281,3925,25,Tier 3 - Low Value
+HCP0673,General Physician,Midwest,64,3910,33,Tier 3 - Low Value
+HCP0049,General Physician,West,904,3855,33,Tier 3 - Low Value
+HCP0668,Pulmonologist,West,410,3855,25,Tier 3 - Low Value
+HCP0460,General Physician,Southeast,953,3820,41,Tier 3 - Low Value
+HCP0716,Pulmonologist,Southwest,569,3815,48,Tier 3 - Low Value
+HCP0220,Pulmonologist,West,643,3775,25,Tier 3 - Low Value
+HCP0076,General Physician,Northwest,330,3755,31,Tier 3 - Low Value
+HCP0371,General Physician,Midwest,196,3730,24,Tier 3 - Low Value
+HCP0413,Pulmonologist,Southeast,369,3670,14,Tier 3 - Low Value
+HCP0587,Neurologist,Northwest,160,3665,39,Tier 3 - Low Value
+HCP0688,Pulmonologist,West,669,3620,34,Tier 3 - Low Value
+HCP0410,Neurologist,Southwest,71,3440,23,Tier 3 - Low Value
+HCP0306,Cardiologist,West,173,3360,45,Tier 3 - Low Value
+HCP0034,Cardiologist,West,338,3285,39,Tier 3 - Low Value
+HCP0300,General Physician,Northeast,294,3230,29,Tier 3 - Low Value
+HCP0142,Cardiologist,Midwest,75,3220,26,Tier 3 - Low Value
+HCP0797,Neurologist,Midwest,270,3210,8,Tier 3 - Low Value
+HCP0681,General Physician,Northeast,763,3160,49,Tier 3 - Low Value
+HCP0315,Endocrinologist,Northeast,108,3105,32,Tier 3 - Low Value
+HCP0362,Neurologist,Southwest,316,3100,6,Tier 3 - Low Value
+HCP0414,General Physician,Southwest,175,3100,21,Tier 3 - Low Value
+HCP0011,General Physician,Southeast,506,3085,29,Tier 3 - Low Value
+HCP0459,General Physician,West,344,2885,14,Tier 3 - Low Value
+HCP0573,Endocrinologist,Northwest,284,2870,23,Tier 3 - Low Value
+HCP0596,Oncologist,West,279,2855,37,Tier 3 - Low Value
+HCP0228,General Physician,Southeast,90,2840,35,Tier 3 - Low Value
+HCP0200,General Physician,West,50,2720,21,Tier 3 - Low Value
+HCP0208,General Physician,Northeast,152,2705,13,Tier 3 - Low Value
+HCP0616,General Physician,Northwest,356,2705,15,Tier 3 - Low Value
+HCP0669,Neurologist,Northwest,508,2670,39,Tier 3 - Low Value
+HCP0358,Cardiologist,Midwest,213,2620,13,Tier 3 - Low Value
+HCP0465,General Physician,Northeast,370,2580,23,Tier 3 - Low Value
+HCP0766,Endocrinologist,Northwest,203,2510,19,Tier 3 - Low Value
+HCP0210,Neurologist,Northwest,569,2500,9,Tier 3 - Low Value
+HCP0304,Endocrinologist,Northwest,174,2500,14,Tier 3 - Low Value
+HCP0788,Endocrinologist,Midwest,454,2485,10,Tier 3 - Low Value
+HCP0710,General Physician,Midwest,174,2480,33,Tier 3 - Low Value
+HCP0086,General Physician,Southwest,333,2465,11,Tier 3 - Low Value
+HCP0257,General Physician,West,469,2400,36,Tier 3 - Low Value
+HCP0262,Pulmonologist,Northeast,244,2320,17,Tier 3 - Low Value
+HCP0275,Cardiologist,Midwest,56,2290,16,Tier 3 - Low Value
+HCP0724,Neurologist,Southeast,236,2235,30,Tier 3 - Low Value
+HCP0793,Neurologist,West,133,2150,5,Tier 3 - Low Value
+HCP0045,Cardiologist,Southwest,250,2000,30,Tier 3 - Low Value
+HCP0746,General Physician,Northwest,178,1740,11,Tier 3 - Low Value
+HCP0700,Cardiologist,Southwest,406,1665,12,Tier 3 - Low Value
+HCP0380,General Physician,Southeast,456,1580,22,Tier 3 - Low Value
+HCP0441,Endocrinologist,West,463,1395,7,Tier 3 - Low Value
+HCP0473,Endocrinologist,Northwest,232,1200,4,Tier 3 - Low Value
+HCP0518,Neurologist,Southeast,226,880,13,Tier 3 - Low Value
+HCP0294,General Physician,Northwest,606,685,11,Tier 3 - Low Value
+HCP0575,Oncologist,West,98,545,9,Tier 3 - Low Value
+HCP0667,General Physician,Southeast,54,500,8,Tier 3 - Low Value
+HCP0169,Neurologist,Northwest,142,475,6,Tier 3 - Low Value
+HCP0320,General Physician,Southeast,117,470,5,Tier 3 - Low Value
+HCP0600,Cardiologist,Southwest,153,320,5,Tier 3 - Low Value
+HCP0427,Pulmonologist,West,74,85,1,Tier 3 - Low Value
+HCP0546,Cardiologist,West,276,85,1,Tier 3 - Low Value
+HCP0005,General Physician,Southwest,276,0,0,Tier 3 - Low Value
+HCP0212,General Physician,Southwest,223,0,0,Tier 3 - Low Value
+HCP0231,Neurologist,Southeast,251,0,0,Tier 3 - Low Value
+HCP0446,Pulmonologist,Northeast,132,0,0,Tier 3 - Low Value
+HCP0457,Oncologist,Southwest,160,0,0,Tier 3 - Low Value
+HCP0718,Endocrinologist,Northwest,57,0,0,Tier 3 - Low Value
+HCP0769,Endocrinologist,Southwest,154,0,0,Tier 3 - Low Value
